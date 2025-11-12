@@ -1,0 +1,13 @@
+# Usa uma imagem leve do PostgreSQL
+FROM postgres:15-alpine
+
+# Define variáveis de ambiente para criar o banco
+ENV POSTGRES_USER=admin
+ENV POSTGRES_PASSWORD=supersecret
+ENV POSTGRES_DB=app_db
+
+# Copia o arquivo SQL para o local que o Postgres lê ao iniciar
+COPY banco.sql /docker-entrypoint-initdb.d/banco.sql
+
+# O Postgres executa automaticamente os scripts dentro de /docker-entrypoint-initdb.d/
+# ao inicializar o container pela primeira vez.

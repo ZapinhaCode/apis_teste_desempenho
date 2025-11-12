@@ -1,0 +1,60 @@
+services:
+  # Banco de Dados PostgreSQL
+  db:
+    build:
+      context: .
+      dockerfile: Dockerfile.db
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: supersecret
+      POSTGRES_DB: app_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app_network
+
+  # pgAdmin
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin_web
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    depends_on:
+      - db
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    networks:
+      - app_network
+
+  # Flask API
+  flask_api:
+    build:
+      context: ./flask_api
+    container_name: flask_api
+    ports:
+      - "5001:5000"
+    environment:
+      - DATABASE_URL=postgresql://admin:supersecret@db:5432/app_db
+      - FLASK_APP=app.py
+      - FLASK_RUN_HOST=0.0.0.0
+      - FLASK_DEBUG=1
+    depends_on:
+      - db
+    volumes:
+      - ./flask_api:/app
+    networks:
+      - app_network
+
+volumes:
+  postgres_data:
+  pgadmin_data:
+
+networks:
+  app_network:
+    driver: bridge
