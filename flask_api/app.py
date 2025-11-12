@@ -9,7 +9,6 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
 
-# --- Definição do Modelo (Model) ---
 class User(db.Model):
     __tablename__ = 'users'
     id = db.Column(db.Integer, primary_key=True)
@@ -95,7 +94,6 @@ def update_user(id):
         
     data = request.get_json()
     
-    # Atualiza campos se estiverem presentes no payload
     if 'name' in data:
         user.name = data['name']
     
@@ -127,7 +125,5 @@ def delete_user(id):
     db.session.commit()
     return jsonify({"message": "User deleted successfully"}), 200
 
-
-# Bloco principal
 if __name__ == '__main__':
     app.run()

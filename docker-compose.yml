@@ -51,6 +51,12 @@ services:
     networks:
       - app_network
 
+  # Laravel API
+
+
+  # Gateway
+
+
 volumes:
   postgres_data:
   pgadmin_data:
