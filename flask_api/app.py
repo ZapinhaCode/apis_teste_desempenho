@@ -1,12 +1,11 @@
 import os
-import time
+import bcrypt
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-
 db = SQLAlchemy(app)
 
 class User(db.Model):
@@ -31,8 +30,16 @@ class User(db.Model):
             'username': self.username
         }
 
-# --- Rotas da API ---
+def hash_password(password: str) -> str:
+    salt = bcrypt.gensalt()
+    hashed = bcrypt.hashpw(password.encode('utf-8'), salt)
+    return hashed.decode('utf-8')
 
+
+def check_password(plain_password: str, hashed_password: str) -> bool:
+    return bcrypt.checkpw(plain_password.encode('utf-8'), hashed_password.encode('utf-8'))
+
+# --- Rotas da API ---
 @app.route('/health')
 def health_check():
     return jsonify({"status": "Flask API is healthy"}), 200
@@ -41,30 +48,35 @@ def health_check():
 # POST /users -- cria um usuário
 @app.route('/users', methods=['POST'])
 def create_user():
-    data = request.get_json()
+    data = request.get_json() or {}
     required_fields = ['name', 'email', 'username', 'password']
-    
-    if not all(field in data for field in required_fields):
-        return jsonify({"error": f"Missing one or more fields: {', '.join(required_fields)}"}), 400
-    
-    if User.query.filter_by(username=data['username']).first():
-        return jsonify({"error": "Username already exists"}), 409
-    if User.query.filter_by(email=data['email']).first():
-        return jsonify({"error": "Email already exists"}), 409
-    if User.query.filter_by(name=data['name']).first():
-        return jsonify({"error": "Name already exists"}), 409
-    if User.query.filter_by(password=data['password']).first():
-        return jsonify({"error": "Password already exists"}), 409
 
-    new_user = User(
-        name=data['name'], 
-        email=data['email'], 
-        username=data['username'], 
-        password=data['password']
-    )
+    if not all(field in data and data[field] for field in required_fields):
+        return jsonify({"error": f"Missing one or more fields: {', '.join(required_fields)}"}), 400
+
+    name = data['name']
+    email = data['email']
+    username = data['username']
+    plain_password = data['password']
+
+    if User.query.filter_by(name=name).first():
+        return jsonify({"error": "Name already exists"}), 409
+
+    existing_users = User.query.all()
+    for user in existing_users:
+        if check_password(plain_password, user.password):
+            return jsonify({"error": "Password already exists"}), 409
+
+    if User.query.filter_by(username=username).first():
+        return jsonify({"error": "Username already exists"}), 409
+    if User.query.filter_by(email=email).first():
+        return jsonify({"error": "Email already exists"}), 409
+
+    hashed_password = hash_password(plain_password)
+    new_user = User(name=name, email=email, username=username, password=hashed_password)
     db.session.add(new_user)
     db.session.commit()
-    
+
     return jsonify(new_user.to_dict()), 201
 
 
@@ -79,48 +91,56 @@ def get_all_users():
 @app.route('/users/<int:id>', methods=['GET'])
 def get_user_by_id(id):
     user = db.session.get(User, id)
-    if user:
-        return jsonify(user.to_dict()), 200
-    else:
+    if not user:
         return jsonify({"error": "User not found"}), 404
+    return jsonify(user.to_dict()), 200
 
 
-# PUT /users/{id} -- atualiza usuário
+# --- Atualizar usuário ---
 @app.route('/users/<int:id>', methods=['PUT'])
 def update_user(id):
     user = db.session.get(User, id)
     if not user:
         return jsonify({"error": "User not found"}), 404
-        
-    data = request.get_json()
-    
-    if 'name' in data:
+
+    data = request.get_json() or {}
+
+    if 'name' in data and data['name'] != user.name:
+        if User.query.filter_by(name=data['name']).first():
+            return jsonify({"error": "Name already exists"}), 409
         user.name = data['name']
-    
-    if 'username' in data and data['username'] != user.username:
-        if User.query.filter_by(username=data['username']).first():
-            return jsonify({"error": "Username already exists"}), 409
-        user.username = data['username']
+
+    if 'password' in data:
+        new_plain = data['password']
+
+        existing_users = User.query.all()
+        for u in existing_users:
+            if check_password(new_plain, u.password):
+                return jsonify({"error": "Password already exists"}), 409
+
+        user.password = hash_password(new_plain)
 
     if 'email' in data and data['email'] != user.email:
         if User.query.filter_by(email=data['email']).first():
             return jsonify({"error": "Email already exists"}), 409
         user.email = data['email']
 
-    if 'password' in data:
-        user.password = data['password']
+    if 'username' in data and data['username'] != user.username:
+        if User.query.filter_by(username=data['username']).first():
+            return jsonify({"error": "Username already exists"}), 409
+        user.username = data['username']
 
     db.session.commit()
     return jsonify(user.to_dict()), 200
 
 
-# DELETE /users/{id} -- remove usuário
+# --- Deletar usuário ---
 @app.route('/users/<int:id>', methods=['DELETE'])
 def delete_user(id):
     user = db.session.get(User, id)
     if not user:
         return jsonify({"error": "User not found"}), 404
-    
+
     db.session.delete(user)
     db.session.commit()
     return jsonify({"message": "User deleted successfully"}), 200
