@@ -40,6 +40,9 @@ def check_password(plain_password: str, hashed_password: str) -> bool:
     return bcrypt.checkpw(plain_password.encode('utf-8'), hashed_password.encode('utf-8'))
 
 # --- Rotas da API ---
+
+
+# GET /health -- verifica a saúde da API
 @app.route('/health')
 def health_check():
     return jsonify({"status": "Flask API is healthy"}), 200
@@ -96,7 +99,7 @@ def get_user_by_id(id):
     return jsonify(user.to_dict()), 200
 
 
-# --- Atualizar usuário ---
+# PUT /users/{id} -- atualiza usuário
 @app.route('/users/<int:id>', methods=['PUT'])
 def update_user(id):
     user = db.session.get(User, id)
@@ -134,7 +137,7 @@ def update_user(id):
     return jsonify(user.to_dict()), 200
 
 
-# --- Deletar usuário ---
+# DELETE /users/{id} -- remove usuário
 @app.route('/users/<int:id>', methods=['DELETE'])
 def delete_user(id):
     user = db.session.get(User, id)
