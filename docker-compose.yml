@@ -52,7 +52,28 @@ services:
       - app_network
 
   # Laravel API
-
+  laravel_api:
+    build:
+      context: ./laravel_api
+      dockerfile: Dockerfile
+    container_name: laravel_api
+    restart: always
+    ports:
+      - "5002:8000"
+    volumes:
+      - ./laravel_api:/var/www/html
+    environment:
+      APP_ENV: local
+      DB_CONNECTION: pgsql
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_DATABASE: app_db
+      DB_USERNAME: admin
+      DB_PASSWORD: supersecret
+    depends_on:
+      - db
+    networks:
+      - app_network
 
   # Gateway
 
