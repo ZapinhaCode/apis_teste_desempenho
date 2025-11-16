@@ -16,5 +16,4 @@ RUN mkdir -p /var/www/html/storage \
     && chown -R www-data:www-data /var/www/html
 
 ENTRYPOINT ["/usr/local/bin/start.sh"]
-
 CMD ["php", "artisan", "serve", "--host=0.0.0.0", "--port=8000"]
