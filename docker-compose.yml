@@ -52,6 +52,9 @@ services:
     networks:
       - app_network
 
+  # Flask API 2
+
+
   # Laravel API
   laravel_api:
     build:
@@ -74,6 +77,23 @@ services:
       DB_SCHEMA: laravel_schema
     depends_on:
       - db
+    networks:
+      - app_network
+
+  # Laravel API 2
+
+
+  # Gateway
+  gateway:
+    build: ./gateway
+    container_name: gateway
+    ports:
+      - "8080:80"
+    depends_on:
+      - flask_api
+      - flask_api2
+      - laravel_api
+      - laravel_api2
     networks:
       - app_network
 
