@@ -39,8 +39,8 @@ def hash_password(password: str) -> str:
 def check_password(plain_password: str, hashed_password: str) -> bool:
     return bcrypt.checkpw(plain_password.encode('utf-8'), hashed_password.encode('utf-8'))
 
-# --- Rotas da API ---
 
+# --- Rotas da API ---
 
 # GET /health -- verifica a saúde da API
 @app.route('/health')

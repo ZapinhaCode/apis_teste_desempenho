@@ -13,6 +13,7 @@ services:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./banco.sql:/docker-entrypoint-initdb.d/banco.sql
     networks:
       - app_network
 
@@ -40,10 +41,10 @@ services:
     ports:
       - "5001:5000"
     environment:
-      - DATABASE_URL=postgresql://admin:supersecret@db:5432/app_db
-      - FLASK_APP=app.py
-      - FLASK_RUN_HOST=0.0.0.0
-      - FLASK_DEBUG=1
+      DATABASE_URL: "postgresql://admin:supersecret@db:5432/app_db?options=-csearch_path=flask_schema"
+      FLASK_APP: app.py
+      FLASK_RUN_HOST: 0.0.0.0
+      FLASK_DEBUG: 1
     depends_on:
       - db
     volumes:
@@ -70,13 +71,11 @@ services:
       DB_DATABASE: app_db
       DB_USERNAME: admin
       DB_PASSWORD: supersecret
+      DB_SCHEMA: laravel_schema
     depends_on:
       - db
     networks:
       - app_network
-
-  # Gateway
-
 
 volumes:
   postgres_data:
