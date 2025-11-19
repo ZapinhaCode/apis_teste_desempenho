@@ -148,5 +148,12 @@ def delete_user(id):
     db.session.commit()
     return jsonify({"message": "User deleted successfully"}), 200
 
+
+# GET /api/whoami -- retorna o nome da instância
+@app.route('/api/whoami')
+def whoami():
+    return jsonify({"api": "flask", "instance": os.getenv("HOSTNAME", "flask_api")})
+
+
 if __name__ == '__main__':
     app.run()
