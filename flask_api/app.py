@@ -42,14 +42,14 @@ def check_password(plain_password: str, hashed_password: str) -> bool:
 
 # --- Rotas da API ---
 
-# GET /health -- verifica a saúde da API
-@app.route('/health')
+# GET /api/health -- verifica a saúde da API
+@app.route('/api/health')
 def health_check():
     return jsonify({"status": "Flask API is healthy"}), 200
 
 
-# POST /users -- cria um usuário
-@app.route('/users', methods=['POST'])
+# POST /api/users -- cria um usuário
+@app.route('/api/users', methods=['POST'])
 def create_user():
     data = request.get_json() or {}
     required_fields = ['name', 'email', 'username', 'password']
@@ -83,15 +83,15 @@ def create_user():
     return jsonify(new_user.to_dict()), 201
 
 
-# GET /users -- lista todos os usuários
-@app.route('/users', methods=['GET'])
+# GET /api/users -- lista todos os usuários
+@app.route('/api/users', methods=['GET'])
 def get_all_users():
     users = User.query.all()
     return jsonify([user.to_dict() for user in users]), 200
 
 
-# GET /users/{id} -- consulta usuário por ID
-@app.route('/users/<int:id>', methods=['GET'])
+# GET /api/users/{id} -- consulta usuário por ID
+@app.route('/api/users/<int:id>', methods=['GET'])
 def get_user_by_id(id):
     user = db.session.get(User, id)
     if not user:
@@ -99,8 +99,8 @@ def get_user_by_id(id):
     return jsonify(user.to_dict()), 200
 
 
-# PUT /users/{id} -- atualiza usuário
-@app.route('/users/<int:id>', methods=['PUT'])
+# PUT /api/users/{id} -- atualiza usuário
+@app.route('/api/users/<int:id>', methods=['PUT'])
 def update_user(id):
     user = db.session.get(User, id)
     if not user:
@@ -137,8 +137,8 @@ def update_user(id):
     return jsonify(user.to_dict()), 200
 
 
-# DELETE /users/{id} -- remove usuário
-@app.route('/users/<int:id>', methods=['DELETE'])
+# DELETE /api/users/{id} -- remove usuário
+@app.route('/api/users/<int:id>', methods=['DELETE'])
 def delete_user(id):
     user = db.session.get(User, id)
     if not user:
