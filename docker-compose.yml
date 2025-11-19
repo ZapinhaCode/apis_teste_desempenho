@@ -53,7 +53,23 @@ services:
       - app_network
 
   # Flask API 2
-
+  flask_api2:
+    build:
+      context: ./flask_api
+    container_name: flask_api2
+    ports:
+      - "5003:5000"
+    environment:
+      DATABASE_URL: "postgresql://admin:supersecret@db:5432/app_db?options=-csearch_path=flask_schema"
+      FLASK_APP: app.py
+      FLASK_RUN_HOST: 0.0.0.0
+      FLASK_DEBUG: 1
+    depends_on:
+      - db
+    volumes:
+      - ./flask_api:/app
+    networks:
+      - app_network
 
   # Laravel API
   laravel_api:
@@ -81,12 +97,34 @@ services:
       - app_network
 
   # Laravel API 2
+  laravel_api2:
+    build:
+      context: ./laravel_api
+      dockerfile: Dockerfile
+    container_name: laravel_api2
+    restart: always
+    ports:
+      - "5004:8000"
+    volumes:
+      - ./laravel_api:/var/www/html
+    environment:
+      APP_ENV: local
+      DB_CONNECTION: pgsql
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_DATABASE: app_db
+      DB_USERNAME: admin
+      DB_PASSWORD: supersecret
+      DB_SCHEMA: laravel_schema
+    depends_on:
+      - db
+    networks:
+      - app_network
 
-
-  # Gateway
+  # Gateway (NGINX Load Balancer)
   gateway:
     build: ./gateway
-    container_name: gateway
+    container_name: api_gateway
     ports:
       - "8080:80"
     depends_on:
