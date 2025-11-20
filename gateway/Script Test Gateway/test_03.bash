@@ -25,7 +25,6 @@ for USERS in $(seq $START $STEP $MAX); do
     echo "Rodando com $USERS usuários..."
     echo "---------------------------------------"
 
-    # Inicia $USERS requisições simultâneas durante $DURATION segundos
     for i in $(seq 1 $USERS); do
         (
             END=$((SECONDS + DURATION))
@@ -34,8 +33,6 @@ for USERS in $(seq $START $STEP $MAX); do
             done
         ) &
     done
-
-    # Espera todos os processos dessa fase
     wait
 done
 

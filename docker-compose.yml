@@ -121,7 +121,7 @@ services:
     networks:
       - app_network
 
-  # Gateway (NGINX Load Balancer)
+  # Gateway (NGINX)
   gateway:
     build: ./gateway
     container_name: api_gateway
