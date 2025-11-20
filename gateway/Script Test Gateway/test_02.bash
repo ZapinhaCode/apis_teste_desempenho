@@ -15,7 +15,4 @@ while true; do
     COUNT=$((COUNT + 1))
 
     echo "[$COUNT] Status: $RESPONSE"
-
-    # Pequeno delay opcional — remova para máximo estresse
-    # sleep 0.01
 done

@@ -4,7 +4,7 @@
 
 URL="http://localhost:8080/api/whoami"
 
-echo "🚀 Iniciando LOAD TEST (carga gradual)"
+echo "Iniciando LOAD TEST (carga gradual)"
 echo "➡ API alvo: $URL"
 echo ""
 
@@ -22,7 +22,7 @@ DURATION=5
 
 for USERS in $(seq $START $STEP $MAX); do
     echo "---------------------------------------"
-    echo "🔸 Rodando com $USERS usuários..."
+    echo "Rodando com $USERS usuários..."
     echo "---------------------------------------"
 
     # Inicia $USERS requisições simultâneas durante $DURATION segundos
@@ -40,4 +40,4 @@ for USERS in $(seq $START $STEP $MAX); do
 done
 
 echo ""
-echo "✅ Teste de carga gradual finalizado!"
+echo "Teste de carga gradual finalizado!"
