@@ -113,7 +113,7 @@ Projeto para testes de desempenho entre APIs desenvolvidas em Flask (Python) e L
 
 ## Como testar as APIs
 
-Você pode utilizar o Postman, Insomnia ou cURL para testar as APIs. Exemplo de requisição com cURL:
+Você pode utilizar o Postman, Insomnia ou cURL para testar as APIs.
 
 
 ## Testes de Gateway
