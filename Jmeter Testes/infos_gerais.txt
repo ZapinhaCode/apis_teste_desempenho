@@ -1,0 +1,9 @@
+Explicacao
+    Numero de usuários virtuais / Tempo de inicialização / Contador de interação
+
+Tempo de execução dos testes
+    10 / 10 / 10 = 0.15 segundos
+    50 / 50 / 50 = 5.43 segundos 
+    100 / 10 / 100 = 8.27 segundos
+    500 / 10 / 500 = 22.35 segundos
+    1000 / 10 / 1000 = 40.32 segundos

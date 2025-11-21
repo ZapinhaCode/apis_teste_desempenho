@@ -1,0 +1,1752 @@
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.01%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     0.14%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      0.15%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   0.32%     53.09MiB / 4.804GiB   1.08%     2.65kB / 588B   0B / 0B       3
+dda86cce8502   laravel_api    0.35%     70.21MiB / 4.804GiB   1.43%     2.47kB / 514B   0B / 0B       3
+f34f463e61f8   pgadmin_web    1.13%     128.5MiB / 4.804GiB   2.61%     2.21kB / 126B   0B / 4.24MB   3
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.01%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.14%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      0.15%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   0.32%     53.09MiB / 4.804GiB   1.08%     2.65kB / 588B   0B / 0B       3 [K
+dda86cce8502   laravel_api    0.35%     70.21MiB / 4.804GiB   1.43%     2.47kB / 514B   0B / 0B       3 [K
+f34f463e61f8   pgadmin_web    1.13%     128.5MiB / 4.804GiB   2.61%     2.21kB / 126B   0B / 4.24MB   3 [K
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.01%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     0.14%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      0.15%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   0.32%     53.09MiB / 4.804GiB   1.08%     2.65kB / 588B   0B / 0B       3
+dda86cce8502   laravel_api    0.35%     70.21MiB / 4.804GiB   1.43%     2.47kB / 514B   0B / 0B       3
+f34f463e61f8   pgadmin_web    1.13%     128.5MiB / 4.804GiB   2.61%     2.21kB / 126B   0B / 4.24MB   3
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.01%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.14%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      0.15%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   0.32%     53.09MiB / 4.804GiB   1.08%     2.65kB / 588B   0B / 0B       3 [K
+dda86cce8502   laravel_api    0.35%     70.21MiB / 4.804GiB   1.43%     2.47kB / 514B   0B / 0B       3 [K
+f34f463e61f8   pgadmin_web    1.13%     128.5MiB / 4.804GiB   2.61%     2.21kB / 126B   0B / 4.24MB   3 [K
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     1.00%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      1.08%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   31.33%    42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2
+dda86cce8502   laravel_api    25.11%    41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2
+f34f463e61f8   pgadmin_web    101.63%   148.6MiB / 4.804GiB   3.02%     2.21kB / 126B   0B / 4.24MB   3
+e2cec18a50eb   postgres_db    0.04%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     1.00%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      1.08%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   31.33%    42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2 [K
+dda86cce8502   laravel_api    25.11%    41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.63%   148.6MiB / 4.804GiB   3.02%     2.21kB / 126B   0B / 4.24MB   3 [K
+e2cec18a50eb   postgres_db    0.04%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     1.00%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      1.08%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   31.33%    42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2
+dda86cce8502   laravel_api    25.11%    41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2
+f34f463e61f8   pgadmin_web    101.63%   148.6MiB / 4.804GiB   3.02%     2.21kB / 126B   0B / 4.24MB   3
+e2cec18a50eb   postgres_db    0.04%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     1.00%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      1.08%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   31.33%    42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2 [K
+dda86cce8502   laravel_api    25.11%    41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.63%   148.6MiB / 4.804GiB   3.02%     2.21kB / 126B   0B / 4.24MB   3 [K
+e2cec18a50eb   postgres_db    0.04%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     0.30%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      0.22%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2
+dda86cce8502   laravel_api    0.01%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2
+f34f463e61f8   pgadmin_web    68.63%    161.7MiB / 4.804GiB   3.29%     2.21kB / 126B   0B / 10.4MB   4
+e2cec18a50eb   postgres_db    0.02%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.30%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      0.22%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2 [K
+dda86cce8502   laravel_api    0.01%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    68.63%    161.7MiB / 4.804GiB   3.29%     2.21kB / 126B   0B / 10.4MB   4 [K
+e2cec18a50eb   postgres_db    0.02%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     0.30%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      0.22%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2
+dda86cce8502   laravel_api    0.01%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2
+f34f463e61f8   pgadmin_web    68.63%    161.7MiB / 4.804GiB   3.29%     2.21kB / 126B   0B / 10.4MB   4
+e2cec18a50eb   postgres_db    0.02%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.30%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      0.22%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2 [K
+dda86cce8502   laravel_api    0.01%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    68.63%    161.7MiB / 4.804GiB   3.29%     2.21kB / 126B   0B / 10.4MB   4 [K
+e2cec18a50eb   postgres_db    0.02%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     0.09%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      0.10%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2
+dda86cce8502   laravel_api    0.03%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2
+f34f463e61f8   pgadmin_web    86.40%    18.52MiB / 4.804GiB   0.38%     2.21kB / 126B   0B / 13.3MB   5
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.09%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      0.10%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2 [K
+dda86cce8502   laravel_api    0.03%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    86.40%    18.52MiB / 4.804GiB   0.38%     2.21kB / 126B   0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     0.09%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3
+b3c608088ecd   flask_api      0.10%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2
+dda86cce8502   laravel_api    0.03%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2
+f34f463e61f8   pgadmin_web    86.40%    18.52MiB / 4.804GiB   0.38%     2.21kB / 126B   0B / 13.3MB   5
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.86kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.09%     80.29MiB / 4.804GiB   1.63%     2.12kB / 126B   0B / 0B       3 [K
+b3c608088ecd   flask_api      0.10%     80.3MiB / 4.804GiB    1.63%     2.25kB / 126B   0B / 0B       3 [K
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.65kB / 588B   0B / 0B       2 [K
+dda86cce8502   laravel_api    0.03%     41.83MiB / 4.804GiB   0.85%     2.47kB / 514B   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    86.40%    18.52MiB / 4.804GiB   0.38%     2.21kB / 126B   0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    0.03%     21.34MiB / 4.804GiB   0.43%     3.36kB / 784B   0B / 52.2MB   6 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.94kB / 126B     0B / 8.19kB   2
+df08e1df9522   flask_api2     0.25%     80.54MiB / 4.804GiB   1.64%     2.21kB / 126B     0B / 0B       3
+b3c608088ecd   flask_api      1.87%     81.13MiB / 4.804GiB   1.65%     3.16kB / 888B     0B / 0B       4
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.73kB / 588B     0B / 0B       2
+dda86cce8502   laravel_api    0.02%     41.83MiB / 4.804GiB   0.85%     2.55kB / 514B     0B / 0B       2
+f34f463e61f8   pgadmin_web    100.59%   46.41MiB / 4.804GiB   0.94%     2.29kB / 126B     0B / 13.3MB   5
+e2cec18a50eb   postgres_db    0.17%     21.9MiB / 4.804GiB    0.45%     3.86kB / 1.03kB   0B / 52.2MB   7
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.94kB / 126B     0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.25%     80.54MiB / 4.804GiB   1.64%     2.21kB / 126B     0B / 0B       3 [K
+b3c608088ecd   flask_api      1.87%     81.13MiB / 4.804GiB   1.65%     3.16kB / 888B     0B / 0B       4 [K
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.73kB / 588B     0B / 0B       2 [K
+dda86cce8502   laravel_api    0.02%     41.83MiB / 4.804GiB   0.85%     2.55kB / 514B     0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    100.59%   46.41MiB / 4.804GiB   0.94%     2.29kB / 126B     0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    0.17%     21.9MiB / 4.804GiB    0.45%     3.86kB / 1.03kB   0B / 52.2MB   7 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.94kB / 126B     0B / 8.19kB   2
+df08e1df9522   flask_api2     0.25%     80.54MiB / 4.804GiB   1.64%     2.21kB / 126B     0B / 0B       3
+b3c608088ecd   flask_api      1.87%     81.13MiB / 4.804GiB   1.65%     3.16kB / 888B     0B / 0B       4
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.73kB / 588B     0B / 0B       2
+dda86cce8502   laravel_api    0.02%     41.83MiB / 4.804GiB   0.85%     2.55kB / 514B     0B / 0B       2
+f34f463e61f8   pgadmin_web    100.59%   46.41MiB / 4.804GiB   0.94%     2.29kB / 126B     0B / 13.3MB   5
+e2cec18a50eb   postgres_db    0.17%     21.9MiB / 4.804GiB    0.45%     3.86kB / 1.03kB   0B / 52.2MB   7
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     1.94kB / 126B     0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     0.25%     80.54MiB / 4.804GiB   1.64%     2.21kB / 126B     0B / 0B       3 [K
+b3c608088ecd   flask_api      1.87%     81.13MiB / 4.804GiB   1.65%     3.16kB / 888B     0B / 0B       4 [K
+a70686aea380   laravel_api2   0.02%     42.66MiB / 4.804GiB   0.87%     2.73kB / 588B     0B / 0B       2 [K
+dda86cce8502   laravel_api    0.02%     41.83MiB / 4.804GiB   0.85%     2.55kB / 514B     0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    100.59%   46.41MiB / 4.804GiB   0.94%     2.29kB / 126B     0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    0.17%     21.9MiB / 4.804GiB    0.45%     3.86kB / 1.03kB   0B / 52.2MB   7 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2
+df08e1df9522   flask_api2     8.68%     81.6MiB / 4.804GiB    1.66%     43.9kB / 37.2kB   0B / 0B       3
+b3c608088ecd   flask_api      7.68%     81.59MiB / 4.804GiB   1.66%     44.1kB / 37.2kB   0B / 0B       3
+a70686aea380   laravel_api2   50.43%    59.77MiB / 4.804GiB   1.22%     76.5kB / 72.5kB   0B / 0B       2
+dda86cce8502   laravel_api    61.70%    58.92MiB / 4.804GiB   1.20%     83.7kB / 80.1kB   0B / 0B       2
+f34f463e61f8   pgadmin_web    101.91%   70.38MiB / 4.804GiB   1.43%     2.46kB / 126B     0B / 13.3MB   5
+e2cec18a50eb   postgres_db    28.87%    31.58MiB / 4.804GiB   0.64%     148kB / 152kB     0B / 52.2MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     8.68%     81.6MiB / 4.804GiB    1.66%     43.9kB / 37.2kB   0B / 0B       3 [K
+b3c608088ecd   flask_api      7.68%     81.59MiB / 4.804GiB   1.66%     44.1kB / 37.2kB   0B / 0B       3 [K
+a70686aea380   laravel_api2   50.43%    59.77MiB / 4.804GiB   1.22%     76.5kB / 72.5kB   0B / 0B       2 [K
+dda86cce8502   laravel_api    61.70%    58.92MiB / 4.804GiB   1.20%     83.7kB / 80.1kB   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.91%   70.38MiB / 4.804GiB   1.43%     2.46kB / 126B     0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    28.87%    31.58MiB / 4.804GiB   0.64%     148kB / 152kB     0B / 52.2MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2
+df08e1df9522   flask_api2     8.68%     81.6MiB / 4.804GiB    1.66%     43.9kB / 37.2kB   0B / 0B       3
+b3c608088ecd   flask_api      7.68%     81.59MiB / 4.804GiB   1.66%     44.1kB / 37.2kB   0B / 0B       3
+a70686aea380   laravel_api2   50.43%    59.77MiB / 4.804GiB   1.22%     76.5kB / 72.5kB   0B / 0B       2
+dda86cce8502   laravel_api    61.70%    58.92MiB / 4.804GiB   1.20%     83.7kB / 80.1kB   0B / 0B       2
+f34f463e61f8   pgadmin_web    101.91%   70.38MiB / 4.804GiB   1.43%     2.46kB / 126B     0B / 13.3MB   5
+e2cec18a50eb   postgres_db    28.87%    31.58MiB / 4.804GiB   0.64%     148kB / 152kB     0B / 52.2MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     8.68%     81.6MiB / 4.804GiB    1.66%     43.9kB / 37.2kB   0B / 0B       3 [K
+b3c608088ecd   flask_api      7.68%     81.59MiB / 4.804GiB   1.66%     44.1kB / 37.2kB   0B / 0B       3 [K
+a70686aea380   laravel_api2   50.43%    59.77MiB / 4.804GiB   1.22%     76.5kB / 72.5kB   0B / 0B       2 [K
+dda86cce8502   laravel_api    61.70%    58.92MiB / 4.804GiB   1.20%     83.7kB / 80.1kB   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.91%   70.38MiB / 4.804GiB   1.43%     2.46kB / 126B     0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    28.87%    31.58MiB / 4.804GiB   0.64%     148kB / 152kB     0B / 52.2MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B    0B / 8.19kB   2
+df08e1df9522   flask_api2     12.63%    81.64MiB / 4.804GiB   1.66%     107kB / 94.4kB   0B / 0B       4
+b3c608088ecd   flask_api      13.18%    81.64MiB / 4.804GiB   1.66%     108kB / 94.6kB   0B / 0B       3
+a70686aea380   laravel_api2   94.61%    59.82MiB / 4.804GiB   1.22%     206kB / 200kB    0B / 0B       2
+dda86cce8502   laravel_api    76.81%    59.26MiB / 4.804GiB   1.20%     217kB / 211kB    0B / 0B       2
+f34f463e61f8   pgadmin_web    102.29%   22.45MiB / 4.804GiB   0.46%     2.46kB / 126B    0B / 13.3MB   4
+e2cec18a50eb   postgres_db    49.54%    29.7MiB / 4.804GiB    0.60%     386kB / 399kB    0B / 52.2MB   10
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B    0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     12.63%    81.64MiB / 4.804GiB   1.66%     107kB / 94.4kB   0B / 0B       4 [K
+b3c608088ecd   flask_api      13.18%    81.64MiB / 4.804GiB   1.66%     108kB / 94.6kB   0B / 0B       3 [K
+a70686aea380   laravel_api2   94.61%    59.82MiB / 4.804GiB   1.22%     206kB / 200kB    0B / 0B       2 [K
+dda86cce8502   laravel_api    76.81%    59.26MiB / 4.804GiB   1.20%     217kB / 211kB    0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    102.29%   22.45MiB / 4.804GiB   0.46%     2.46kB / 126B    0B / 13.3MB   4 [K
+e2cec18a50eb   postgres_db    49.54%    29.7MiB / 4.804GiB    0.60%     386kB / 399kB    0B / 52.2MB   10 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B    0B / 8.19kB   2
+df08e1df9522   flask_api2     12.63%    81.64MiB / 4.804GiB   1.66%     107kB / 94.4kB   0B / 0B       4
+b3c608088ecd   flask_api      13.18%    81.64MiB / 4.804GiB   1.66%     108kB / 94.6kB   0B / 0B       3
+a70686aea380   laravel_api2   94.61%    59.82MiB / 4.804GiB   1.22%     206kB / 200kB    0B / 0B       2
+dda86cce8502   laravel_api    76.81%    59.26MiB / 4.804GiB   1.20%     217kB / 211kB    0B / 0B       2
+f34f463e61f8   pgadmin_web    102.29%   22.45MiB / 4.804GiB   0.46%     2.46kB / 126B    0B / 13.3MB   4
+e2cec18a50eb   postgres_db    49.54%    29.7MiB / 4.804GiB    0.60%     386kB / 399kB    0B / 52.2MB   10
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B    0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     12.63%    81.64MiB / 4.804GiB   1.66%     107kB / 94.4kB   0B / 0B       4 [K
+b3c608088ecd   flask_api      13.18%    81.64MiB / 4.804GiB   1.66%     108kB / 94.6kB   0B / 0B       3 [K
+a70686aea380   laravel_api2   94.61%    59.82MiB / 4.804GiB   1.22%     206kB / 200kB    0B / 0B       2 [K
+dda86cce8502   laravel_api    76.81%    59.26MiB / 4.804GiB   1.20%     217kB / 211kB    0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    102.29%   22.45MiB / 4.804GiB   0.46%     2.46kB / 126B    0B / 13.3MB   4 [K
+e2cec18a50eb   postgres_db    49.54%    29.7MiB / 4.804GiB    0.60%     386kB / 399kB    0B / 52.2MB   10 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     12.88%    81.68MiB / 4.804GiB   1.66%     174kB / 154kB   0B / 0B       3
+b3c608088ecd   flask_api      12.36%    81.7MiB / 4.804GiB    1.66%     174kB / 154kB   0B / 0B       4
+a70686aea380   laravel_api2   82.15%    60.13MiB / 4.804GiB   1.22%     343kB / 335kB   0B / 0B       2
+dda86cce8502   laravel_api    97.25%    59.3MiB / 4.804GiB    1.21%     355kB / 347kB   0B / 0B       2
+f34f463e61f8   pgadmin_web    101.77%   43.03MiB / 4.804GiB   0.87%     2.46kB / 126B   0B / 13.3MB   4
+e2cec18a50eb   postgres_db    48.61%    31.21MiB / 4.804GiB   0.63%     636kB / 660kB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     12.88%    81.68MiB / 4.804GiB   1.66%     174kB / 154kB   0B / 0B       3 [K
+b3c608088ecd   flask_api      12.36%    81.7MiB / 4.804GiB    1.66%     174kB / 154kB   0B / 0B       4 [K
+a70686aea380   laravel_api2   82.15%    60.13MiB / 4.804GiB   1.22%     343kB / 335kB   0B / 0B       2 [K
+dda86cce8502   laravel_api    97.25%    59.3MiB / 4.804GiB    1.21%     355kB / 347kB   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.77%   43.03MiB / 4.804GiB   0.87%     2.46kB / 126B   0B / 13.3MB   4 [K
+e2cec18a50eb   postgres_db    48.61%    31.21MiB / 4.804GiB   0.63%     636kB / 660kB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     12.88%    81.68MiB / 4.804GiB   1.66%     174kB / 154kB   0B / 0B       3
+b3c608088ecd   flask_api      12.36%    81.7MiB / 4.804GiB    1.66%     174kB / 154kB   0B / 0B       4
+a70686aea380   laravel_api2   82.15%    60.13MiB / 4.804GiB   1.22%     343kB / 335kB   0B / 0B       2
+dda86cce8502   laravel_api    97.25%    59.3MiB / 4.804GiB    1.21%     355kB / 347kB   0B / 0B       2
+f34f463e61f8   pgadmin_web    101.77%   43.03MiB / 4.804GiB   0.87%     2.46kB / 126B   0B / 13.3MB   4
+e2cec18a50eb   postgres_db    48.61%    31.21MiB / 4.804GiB   0.63%     636kB / 660kB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     12.88%    81.68MiB / 4.804GiB   1.66%     174kB / 154kB   0B / 0B       3 [K
+b3c608088ecd   flask_api      12.36%    81.7MiB / 4.804GiB    1.66%     174kB / 154kB   0B / 0B       4 [K
+a70686aea380   laravel_api2   82.15%    60.13MiB / 4.804GiB   1.22%     343kB / 335kB   0B / 0B       2 [K
+dda86cce8502   laravel_api    97.25%    59.3MiB / 4.804GiB    1.21%     355kB / 347kB   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.77%   43.03MiB / 4.804GiB   0.87%     2.46kB / 126B   0B / 13.3MB   4 [K
+e2cec18a50eb   postgres_db    48.61%    31.21MiB / 4.804GiB   0.63%     636kB / 660kB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     13.25%    81.73MiB / 4.804GiB   1.66%     239kB / 213kB   0B / 0B       3
+b3c608088ecd   flask_api      13.34%    81.74MiB / 4.804GiB   1.66%     240kB / 213kB   0B / 0B       3
+a70686aea380   laravel_api2   101.17%   59.92MiB / 4.804GiB   1.22%     478kB / 467kB   0B / 0B       2
+dda86cce8502   laravel_api    80.05%    59.09MiB / 4.804GiB   1.20%     492kB / 481kB   0B / 0B       2
+f34f463e61f8   pgadmin_web    102.33%   67.2MiB / 4.804GiB    1.37%     2.46kB / 126B   0B / 13.3MB   4
+e2cec18a50eb   postgres_db    49.73%    31.05MiB / 4.804GiB   0.63%     880kB / 915kB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     13.25%    81.73MiB / 4.804GiB   1.66%     239kB / 213kB   0B / 0B       3 [K
+b3c608088ecd   flask_api      13.34%    81.74MiB / 4.804GiB   1.66%     240kB / 213kB   0B / 0B       3 [K
+a70686aea380   laravel_api2   101.17%   59.92MiB / 4.804GiB   1.22%     478kB / 467kB   0B / 0B       2 [K
+dda86cce8502   laravel_api    80.05%    59.09MiB / 4.804GiB   1.20%     492kB / 481kB   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    102.33%   67.2MiB / 4.804GiB    1.37%     2.46kB / 126B   0B / 13.3MB   4 [K
+e2cec18a50eb   postgres_db    49.73%    31.05MiB / 4.804GiB   0.63%     880kB / 915kB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2
+df08e1df9522   flask_api2     13.25%    81.73MiB / 4.804GiB   1.66%     239kB / 213kB   0B / 0B       3
+b3c608088ecd   flask_api      13.34%    81.74MiB / 4.804GiB   1.66%     240kB / 213kB   0B / 0B       3
+a70686aea380   laravel_api2   101.17%   59.92MiB / 4.804GiB   1.22%     478kB / 467kB   0B / 0B       2
+dda86cce8502   laravel_api    80.05%    59.09MiB / 4.804GiB   1.20%     492kB / 481kB   0B / 0B       2
+f34f463e61f8   pgadmin_web    102.33%   67.2MiB / 4.804GiB    1.37%     2.46kB / 126B   0B / 13.3MB   4
+e2cec18a50eb   postgres_db    49.73%    31.05MiB / 4.804GiB   0.63%     880kB / 915kB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B   0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     13.25%    81.73MiB / 4.804GiB   1.66%     239kB / 213kB   0B / 0B       3 [K
+b3c608088ecd   flask_api      13.34%    81.74MiB / 4.804GiB   1.66%     240kB / 213kB   0B / 0B       3 [K
+a70686aea380   laravel_api2   101.17%   59.92MiB / 4.804GiB   1.22%     478kB / 467kB   0B / 0B       2 [K
+dda86cce8502   laravel_api    80.05%    59.09MiB / 4.804GiB   1.20%     492kB / 481kB   0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    102.33%   67.2MiB / 4.804GiB    1.37%     2.46kB / 126B   0B / 13.3MB   4 [K
+e2cec18a50eb   postgres_db    49.73%    31.05MiB / 4.804GiB   0.63%     880kB / 915kB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2
+df08e1df9522   flask_api2     13.00%    81.76MiB / 4.804GiB   1.66%     310kB / 276kB     0B / 0B       3
+b3c608088ecd   flask_api      12.48%    82.06MiB / 4.804GiB   1.67%     310kB / 275kB     0B / 0B       3
+a70686aea380   laravel_api2   82.76%    59.96MiB / 4.804GiB   1.22%     622kB / 609kB     0B / 0B       2
+dda86cce8502   laravel_api    92.98%    59.4MiB / 4.804GiB    1.21%     635kB / 621kB     0B / 0B       2
+f34f463e61f8   pgadmin_web    101.46%   133.8MiB / 4.804GiB   2.72%     2.46kB / 126B     0B / 13.3MB   5
+e2cec18a50eb   postgres_db    48.29%    30.45MiB / 4.804GiB   0.62%     1.14MB / 1.19MB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     13.00%    81.76MiB / 4.804GiB   1.66%     310kB / 276kB     0B / 0B       3 [K
+b3c608088ecd   flask_api      12.48%    82.06MiB / 4.804GiB   1.67%     310kB / 275kB     0B / 0B       3 [K
+a70686aea380   laravel_api2   82.76%    59.96MiB / 4.804GiB   1.22%     622kB / 609kB     0B / 0B       2 [K
+dda86cce8502   laravel_api    92.98%    59.4MiB / 4.804GiB    1.21%     635kB / 621kB     0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.46%   133.8MiB / 4.804GiB   2.72%     2.46kB / 126B     0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    48.29%    30.45MiB / 4.804GiB   0.62%     1.14MB / 1.19MB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2
+df08e1df9522   flask_api2     13.00%    81.76MiB / 4.804GiB   1.66%     310kB / 276kB     0B / 0B       3
+b3c608088ecd   flask_api      12.48%    82.06MiB / 4.804GiB   1.67%     310kB / 275kB     0B / 0B       3
+a70686aea380   laravel_api2   82.76%    59.96MiB / 4.804GiB   1.22%     622kB / 609kB     0B / 0B       2
+dda86cce8502   laravel_api    92.98%    59.4MiB / 4.804GiB    1.21%     635kB / 621kB     0B / 0B       2
+f34f463e61f8   pgadmin_web    101.46%   133.8MiB / 4.804GiB   2.72%     2.46kB / 126B     0B / 13.3MB   5
+e2cec18a50eb   postgres_db    48.29%    30.45MiB / 4.804GiB   0.62%     1.14MB / 1.19MB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 8.19kB   2 [K
+df08e1df9522   flask_api2     13.00%    81.76MiB / 4.804GiB   1.66%     310kB / 276kB     0B / 0B       3 [K
+b3c608088ecd   flask_api      12.48%    82.06MiB / 4.804GiB   1.67%     310kB / 275kB     0B / 0B       3 [K
+a70686aea380   laravel_api2   82.76%    59.96MiB / 4.804GiB   1.22%     622kB / 609kB     0B / 0B       2 [K
+dda86cce8502   laravel_api    92.98%    59.4MiB / 4.804GiB    1.21%     635kB / 621kB     0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.46%   133.8MiB / 4.804GiB   2.72%     2.46kB / 126B     0B / 13.3MB   5 [K
+e2cec18a50eb   postgres_db    48.29%    30.45MiB / 4.804GiB   0.62%     1.14MB / 1.19MB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.70%    81.81MiB / 4.804GiB   1.66%     369kB / 330kB     0B / 295kB    4
+b3c608088ecd   flask_api      12.17%    81.79MiB / 4.804GiB   1.66%     369kB / 329kB     0B / 295kB    3
+a70686aea380   laravel_api2   99.84%    60.2MiB / 4.804GiB    1.22%     739kB / 725kB     0B / 0B       2
+dda86cce8502   laravel_api    83.76%    59.18MiB / 4.804GiB   1.20%     754kB / 737kB     0B / 0B       2
+f34f463e61f8   pgadmin_web    101.30%   163.2MiB / 4.804GiB   3.32%     2.46kB / 126B     0B / 13.3MB   6
+e2cec18a50eb   postgres_db    47.40%    30.81MiB / 4.804GiB   0.63%     1.36MB / 1.41MB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.70%    81.81MiB / 4.804GiB   1.66%     369kB / 330kB     0B / 295kB    4 [K
+b3c608088ecd   flask_api      12.17%    81.79MiB / 4.804GiB   1.66%     369kB / 329kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   99.84%    60.2MiB / 4.804GiB    1.22%     739kB / 725kB     0B / 0B       2 [K
+dda86cce8502   laravel_api    83.76%    59.18MiB / 4.804GiB   1.20%     754kB / 737kB     0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.30%   163.2MiB / 4.804GiB   3.32%     2.46kB / 126B     0B / 13.3MB   6 [K
+e2cec18a50eb   postgres_db    47.40%    30.81MiB / 4.804GiB   0.63%     1.36MB / 1.41MB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.70%    81.81MiB / 4.804GiB   1.66%     369kB / 330kB     0B / 295kB    4
+b3c608088ecd   flask_api      12.17%    81.79MiB / 4.804GiB   1.66%     369kB / 329kB     0B / 295kB    3
+a70686aea380   laravel_api2   99.84%    60.2MiB / 4.804GiB    1.22%     739kB / 725kB     0B / 0B       2
+dda86cce8502   laravel_api    83.76%    59.18MiB / 4.804GiB   1.20%     754kB / 737kB     0B / 0B       2
+f34f463e61f8   pgadmin_web    101.30%   163.2MiB / 4.804GiB   3.32%     2.46kB / 126B     0B / 13.3MB   6
+e2cec18a50eb   postgres_db    47.40%    30.81MiB / 4.804GiB   0.63%     1.36MB / 1.41MB   0B / 52.2MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.70%    81.81MiB / 4.804GiB   1.66%     369kB / 330kB     0B / 295kB    4 [K
+b3c608088ecd   flask_api      12.17%    81.79MiB / 4.804GiB   1.66%     369kB / 329kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   99.84%    60.2MiB / 4.804GiB    1.22%     739kB / 725kB     0B / 0B       2 [K
+dda86cce8502   laravel_api    83.76%    59.18MiB / 4.804GiB   1.20%     754kB / 737kB     0B / 0B       2 [K
+f34f463e61f8   pgadmin_web    101.30%   163.2MiB / 4.804GiB   3.32%     2.46kB / 126B     0B / 13.3MB   6 [K
+e2cec18a50eb   postgres_db    47.40%    30.81MiB / 4.804GiB   0.63%     1.36MB / 1.41MB   0B / 52.2MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.69%    81.8MiB / 4.804GiB    1.66%     432kB / 386kB     0B / 295kB    3
+b3c608088ecd   flask_api      12.64%    81.82MiB / 4.804GiB   1.66%     432kB / 385kB     0B / 295kB    3
+a70686aea380   laravel_api2   80.25%    60MiB / 4.804GiB      1.22%     866kB / 850kB     0B / 0B       2
+dda86cce8502   laravel_api    81.30%    59.2MiB / 4.804GiB    1.20%     881kB / 862kB     0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    101.95%   185.1MiB / 4.804GiB   3.76%     2.46kB / 126B     0B / 13.3MB   6
+e2cec18a50eb   postgres_db    49.14%    31.38MiB / 4.804GiB   0.64%     1.59MB / 1.65MB   0B / 52.3MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.69%    81.8MiB / 4.804GiB    1.66%     432kB / 386kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.64%    81.82MiB / 4.804GiB   1.66%     432kB / 385kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   80.25%    60MiB / 4.804GiB      1.22%     866kB / 850kB     0B / 0B       2 [K
+dda86cce8502   laravel_api    81.30%    59.2MiB / 4.804GiB    1.20%     881kB / 862kB     0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    101.95%   185.1MiB / 4.804GiB   3.76%     2.46kB / 126B     0B / 13.3MB   6 [K
+e2cec18a50eb   postgres_db    49.14%    31.38MiB / 4.804GiB   0.64%     1.59MB / 1.65MB   0B / 52.3MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.69%    81.8MiB / 4.804GiB    1.66%     432kB / 386kB     0B / 295kB    3
+b3c608088ecd   flask_api      12.64%    81.82MiB / 4.804GiB   1.66%     432kB / 385kB     0B / 295kB    3
+a70686aea380   laravel_api2   80.25%    60MiB / 4.804GiB      1.22%     866kB / 850kB     0B / 0B       2
+dda86cce8502   laravel_api    81.30%    59.2MiB / 4.804GiB    1.20%     881kB / 862kB     0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    101.95%   185.1MiB / 4.804GiB   3.76%     2.46kB / 126B     0B / 13.3MB   6
+e2cec18a50eb   postgres_db    49.14%    31.38MiB / 4.804GiB   0.64%     1.59MB / 1.65MB   0B / 52.3MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.69%    81.8MiB / 4.804GiB    1.66%     432kB / 386kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.64%    81.82MiB / 4.804GiB   1.66%     432kB / 385kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   80.25%    60MiB / 4.804GiB      1.22%     866kB / 850kB     0B / 0B       2 [K
+dda86cce8502   laravel_api    81.30%    59.2MiB / 4.804GiB    1.20%     881kB / 862kB     0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    101.95%   185.1MiB / 4.804GiB   3.76%     2.46kB / 126B     0B / 13.3MB   6 [K
+e2cec18a50eb   postgres_db    49.14%    31.38MiB / 4.804GiB   0.64%     1.59MB / 1.65MB   0B / 52.3MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     13.16%    81.82MiB / 4.804GiB   1.66%     499kB / 447kB     0B / 295kB    4
+b3c608088ecd   flask_api      13.06%    81.82MiB / 4.804GiB   1.66%     499kB / 446kB     0B / 295kB    3
+a70686aea380   laravel_api2   96.45%    60.32MiB / 4.804GiB   1.23%     1.01MB / 988kB    0B / 8.19kB   2
+dda86cce8502   laravel_api    90.76%    59.21MiB / 4.804GiB   1.20%     1.02MB / 1MB      0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    101.57%   210.2MiB / 4.804GiB   4.27%     2.46kB / 126B     0B / 13.3MB   6
+e2cec18a50eb   postgres_db    50.66%    30.02MiB / 4.804GiB   0.61%     1.84MB / 1.91MB   0B / 52.3MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     13.16%    81.82MiB / 4.804GiB   1.66%     499kB / 447kB     0B / 295kB    4 [K
+b3c608088ecd   flask_api      13.06%    81.82MiB / 4.804GiB   1.66%     499kB / 446kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   96.45%    60.32MiB / 4.804GiB   1.23%     1.01MB / 988kB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    90.76%    59.21MiB / 4.804GiB   1.20%     1.02MB / 1MB      0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    101.57%   210.2MiB / 4.804GiB   4.27%     2.46kB / 126B     0B / 13.3MB   6 [K
+e2cec18a50eb   postgres_db    50.66%    30.02MiB / 4.804GiB   0.61%     1.84MB / 1.91MB   0B / 52.3MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     13.16%    81.82MiB / 4.804GiB   1.66%     499kB / 447kB     0B / 295kB    4
+b3c608088ecd   flask_api      13.06%    81.82MiB / 4.804GiB   1.66%     499kB / 446kB     0B / 295kB    3
+a70686aea380   laravel_api2   96.45%    60.32MiB / 4.804GiB   1.23%     1.01MB / 988kB    0B / 8.19kB   2
+dda86cce8502   laravel_api    90.76%    59.21MiB / 4.804GiB   1.20%     1.02MB / 1MB      0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    101.57%   210.2MiB / 4.804GiB   4.27%     2.46kB / 126B     0B / 13.3MB   6
+e2cec18a50eb   postgres_db    50.66%    30.02MiB / 4.804GiB   0.61%     1.84MB / 1.91MB   0B / 52.3MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     13.16%    81.82MiB / 4.804GiB   1.66%     499kB / 447kB     0B / 295kB    4 [K
+b3c608088ecd   flask_api      13.06%    81.82MiB / 4.804GiB   1.66%     499kB / 446kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   96.45%    60.32MiB / 4.804GiB   1.23%     1.01MB / 988kB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    90.76%    59.21MiB / 4.804GiB   1.20%     1.02MB / 1MB      0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    101.57%   210.2MiB / 4.804GiB   4.27%     2.46kB / 126B     0B / 13.3MB   6 [K
+e2cec18a50eb   postgres_db    50.66%    30.02MiB / 4.804GiB   0.61%     1.84MB / 1.91MB   0B / 52.3MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.00%    81.86MiB / 4.804GiB   1.66%     578kB / 517kB     0B / 295kB    3
+b3c608088ecd   flask_api      12.58%    81.84MiB / 4.804GiB   1.66%     578kB / 516kB     0B / 295kB    3
+a70686aea380   laravel_api2   95.94%    60.14MiB / 4.804GiB   1.22%     1.17MB / 1.15MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    81.92%    59.76MiB / 4.804GiB   1.21%     1.18MB / 1.16MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    29.67%    212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.81%    31.5MiB / 4.804GiB    0.64%     2.13MB / 2.22MB   0B / 52.3MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.00%    81.86MiB / 4.804GiB   1.66%     578kB / 517kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.58%    81.84MiB / 4.804GiB   1.66%     578kB / 516kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   95.94%    60.14MiB / 4.804GiB   1.22%     1.17MB / 1.15MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    81.92%    59.76MiB / 4.804GiB   1.21%     1.18MB / 1.16MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    29.67%    212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.81%    31.5MiB / 4.804GiB    0.64%     2.13MB / 2.22MB   0B / 52.3MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.00%    81.86MiB / 4.804GiB   1.66%     578kB / 517kB     0B / 295kB    3
+b3c608088ecd   flask_api      12.58%    81.84MiB / 4.804GiB   1.66%     578kB / 516kB     0B / 295kB    3
+a70686aea380   laravel_api2   95.94%    60.14MiB / 4.804GiB   1.22%     1.17MB / 1.15MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    81.92%    59.76MiB / 4.804GiB   1.21%     1.18MB / 1.16MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    29.67%    212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.81%    31.5MiB / 4.804GiB    0.64%     2.13MB / 2.22MB   0B / 52.3MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.00%    81.86MiB / 4.804GiB   1.66%     578kB / 517kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.58%    81.84MiB / 4.804GiB   1.66%     578kB / 516kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   95.94%    60.14MiB / 4.804GiB   1.22%     1.17MB / 1.15MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    81.92%    59.76MiB / 4.804GiB   1.21%     1.18MB / 1.16MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    29.67%    212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.81%    31.5MiB / 4.804GiB    0.64%     2.13MB / 2.22MB   0B / 52.3MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.93%    81.84MiB / 4.804GiB   1.66%     653kB / 584kB     0B / 295kB    3
+b3c608088ecd   flask_api      12.22%    82.11MiB / 4.804GiB   1.67%     653kB / 583kB     0B / 295kB    3
+a70686aea380   laravel_api2   91.95%    60.15MiB / 4.804GiB   1.22%     1.33MB / 1.31MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    109.73%   59.57MiB / 4.804GiB   1.21%     1.34MB / 1.32MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.71%    29.64MiB / 4.804GiB   0.60%     2.42MB / 2.52MB   0B / 52.3MB   10
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.93%    81.84MiB / 4.804GiB   1.66%     653kB / 584kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.22%    82.11MiB / 4.804GiB   1.67%     653kB / 583kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   91.95%    60.15MiB / 4.804GiB   1.22%     1.33MB / 1.31MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    109.73%   59.57MiB / 4.804GiB   1.21%     1.34MB / 1.32MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.71%    29.64MiB / 4.804GiB   0.60%     2.42MB / 2.52MB   0B / 52.3MB   10 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.93%    81.84MiB / 4.804GiB   1.66%     653kB / 584kB     0B / 295kB    3
+b3c608088ecd   flask_api      12.22%    82.11MiB / 4.804GiB   1.67%     653kB / 583kB     0B / 295kB    3
+a70686aea380   laravel_api2   91.95%    60.15MiB / 4.804GiB   1.22%     1.33MB / 1.31MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    109.73%   59.57MiB / 4.804GiB   1.21%     1.34MB / 1.32MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.71%    29.64MiB / 4.804GiB   0.60%     2.42MB / 2.52MB   0B / 52.3MB   10
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.93%    81.84MiB / 4.804GiB   1.66%     653kB / 584kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.22%    82.11MiB / 4.804GiB   1.67%     653kB / 583kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   91.95%    60.15MiB / 4.804GiB   1.22%     1.33MB / 1.31MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    109.73%   59.57MiB / 4.804GiB   1.21%     1.34MB / 1.32MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.6MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.71%    29.64MiB / 4.804GiB   0.60%     2.42MB / 2.52MB   0B / 52.3MB   10 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.27%    81.89MiB / 4.804GiB   1.66%     725kB / 648kB     0B / 295kB    4
+b3c608088ecd   flask_api      11.79%    81.9MiB / 4.804GiB    1.66%     726kB / 649kB     0B / 295kB    3
+a70686aea380   laravel_api2   112.71%   60.18MiB / 4.804GiB   1.22%     1.49MB / 1.46MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    85.92%    59.42MiB / 4.804GiB   1.21%     1.5MB / 1.47MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.16%    31.16MiB / 4.804GiB   0.63%     2.7MB / 2.81MB    0B / 52.3MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.27%    81.89MiB / 4.804GiB   1.66%     725kB / 648kB     0B / 295kB    4 [K
+b3c608088ecd   flask_api      11.79%    81.9MiB / 4.804GiB    1.66%     726kB / 649kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   112.71%   60.18MiB / 4.804GiB   1.22%     1.49MB / 1.46MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    85.92%    59.42MiB / 4.804GiB   1.21%     1.5MB / 1.47MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.16%    31.16MiB / 4.804GiB   0.63%     2.7MB / 2.81MB    0B / 52.3MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.27%    81.89MiB / 4.804GiB   1.66%     725kB / 648kB     0B / 295kB    4
+b3c608088ecd   flask_api      11.79%    81.9MiB / 4.804GiB    1.66%     726kB / 649kB     0B / 295kB    3
+a70686aea380   laravel_api2   112.71%   60.18MiB / 4.804GiB   1.22%     1.49MB / 1.46MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    85.92%    59.42MiB / 4.804GiB   1.21%     1.5MB / 1.47MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.16%    31.16MiB / 4.804GiB   0.63%     2.7MB / 2.81MB    0B / 52.3MB   11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.27%    81.89MiB / 4.804GiB   1.66%     725kB / 648kB     0B / 295kB    4 [K
+b3c608088ecd   flask_api      11.79%    81.9MiB / 4.804GiB    1.66%     726kB / 649kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   112.71%   60.18MiB / 4.804GiB   1.22%     1.49MB / 1.46MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    85.92%    59.42MiB / 4.804GiB   1.21%     1.5MB / 1.47MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.16%    31.16MiB / 4.804GiB   0.63%     2.7MB / 2.81MB    0B / 52.3MB   11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.28%    81.86MiB / 4.804GiB   1.66%     797kB / 712kB     0B / 295kB    3
+b3c608088ecd   flask_api      11.94%    81.92MiB / 4.804GiB   1.67%     799kB / 719kB     0B / 295kB    3
+a70686aea380   laravel_api2   96.92%    60.2MiB / 4.804GiB    1.22%     1.65MB / 1.62MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    95.18%    59.45MiB / 4.804GiB   1.21%     1.66MB / 1.63MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.05%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    55.90%    32.75MiB / 4.804GiB   0.67%     2.99MB / 3.11MB   0B / 53MB     11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.28%    81.86MiB / 4.804GiB   1.66%     797kB / 712kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.94%    81.92MiB / 4.804GiB   1.67%     799kB / 719kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   96.92%    60.2MiB / 4.804GiB    1.22%     1.65MB / 1.62MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    95.18%    59.45MiB / 4.804GiB   1.21%     1.66MB / 1.63MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.05%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    55.90%    32.75MiB / 4.804GiB   0.67%     2.99MB / 3.11MB   0B / 53MB     11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.28%    81.86MiB / 4.804GiB   1.66%     797kB / 712kB     0B / 295kB    3
+b3c608088ecd   flask_api      11.94%    81.92MiB / 4.804GiB   1.67%     799kB / 719kB     0B / 295kB    3
+a70686aea380   laravel_api2   96.92%    60.2MiB / 4.804GiB    1.22%     1.65MB / 1.62MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    95.18%    59.45MiB / 4.804GiB   1.21%     1.66MB / 1.63MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.05%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    55.90%    32.75MiB / 4.804GiB   0.67%     2.99MB / 3.11MB   0B / 53MB     11
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.28%    81.86MiB / 4.804GiB   1.66%     797kB / 712kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.94%    81.92MiB / 4.804GiB   1.67%     799kB / 719kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   96.92%    60.2MiB / 4.804GiB    1.22%     1.65MB / 1.62MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    95.18%    59.45MiB / 4.804GiB   1.21%     1.66MB / 1.63MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.05%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    55.90%    32.75MiB / 4.804GiB   0.67%     2.99MB / 3.11MB   0B / 53MB     11 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.14%    81.89MiB / 4.804GiB   1.66%     875kB / 782kB     0B / 295kB    3
+b3c608088ecd   flask_api      11.54%    81.95MiB / 4.804GiB   1.67%     875kB / 788kB     0B / 295kB    3
+a70686aea380   laravel_api2   91.08%    60.26MiB / 4.804GiB   1.23%     1.82MB / 1.79MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    103.71%   59.5MiB / 4.804GiB    1.21%     1.83MB / 1.79MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.09%    35.93MiB / 4.804GiB   0.73%     3.29MB / 3.42MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.14%    81.89MiB / 4.804GiB   1.66%     875kB / 782kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.54%    81.95MiB / 4.804GiB   1.67%     875kB / 788kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   91.08%    60.26MiB / 4.804GiB   1.23%     1.82MB / 1.79MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    103.71%   59.5MiB / 4.804GiB    1.21%     1.83MB / 1.79MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.09%    35.93MiB / 4.804GiB   0.73%     3.29MB / 3.42MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.14%    81.89MiB / 4.804GiB   1.66%     875kB / 782kB     0B / 295kB    3
+b3c608088ecd   flask_api      11.54%    81.95MiB / 4.804GiB   1.67%     875kB / 788kB     0B / 295kB    3
+a70686aea380   laravel_api2   91.08%    60.26MiB / 4.804GiB   1.23%     1.82MB / 1.79MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    103.71%   59.5MiB / 4.804GiB    1.21%     1.83MB / 1.79MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.09%    35.93MiB / 4.804GiB   0.73%     3.29MB / 3.42MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.14%    81.89MiB / 4.804GiB   1.66%     875kB / 782kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.54%    81.95MiB / 4.804GiB   1.67%     875kB / 788kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   91.08%    60.26MiB / 4.804GiB   1.23%     1.82MB / 1.79MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    103.71%   59.5MiB / 4.804GiB    1.21%     1.83MB / 1.79MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.09%    35.93MiB / 4.804GiB   0.73%     3.29MB / 3.42MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.99%    82.15MiB / 4.804GiB   1.67%     950kB / 852kB     0B / 295kB    3
+b3c608088ecd   flask_api      13.65%    81.96MiB / 4.804GiB   1.67%     950kB / 858kB     0B / 295kB    3
+a70686aea380   laravel_api2   110.88%   60.29MiB / 4.804GiB   1.23%     1.98MB / 1.95MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    90.50%    59.51MiB / 4.804GiB   1.21%     1.99MB / 1.96MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.36%    36.35MiB / 4.804GiB   0.74%     3.59MB / 3.73MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.99%    82.15MiB / 4.804GiB   1.67%     950kB / 852kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      13.65%    81.96MiB / 4.804GiB   1.67%     950kB / 858kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   110.88%   60.29MiB / 4.804GiB   1.23%     1.98MB / 1.95MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    90.50%    59.51MiB / 4.804GiB   1.21%     1.99MB / 1.96MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.36%    36.35MiB / 4.804GiB   0.74%     3.59MB / 3.73MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     12.99%    82.15MiB / 4.804GiB   1.67%     950kB / 852kB     0B / 295kB    3
+b3c608088ecd   flask_api      13.65%    81.96MiB / 4.804GiB   1.67%     950kB / 858kB     0B / 295kB    3
+a70686aea380   laravel_api2   110.88%   60.29MiB / 4.804GiB   1.23%     1.98MB / 1.95MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    90.50%    59.51MiB / 4.804GiB   1.21%     1.99MB / 1.96MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.36%    36.35MiB / 4.804GiB   0.74%     3.59MB / 3.73MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     12.99%    82.15MiB / 4.804GiB   1.67%     950kB / 852kB     0B / 295kB    3 [K
+b3c608088ecd   flask_api      13.65%    81.96MiB / 4.804GiB   1.67%     950kB / 858kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   110.88%   60.29MiB / 4.804GiB   1.23%     1.98MB / 1.95MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    90.50%    59.51MiB / 4.804GiB   1.21%     1.99MB / 1.96MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.36%    36.35MiB / 4.804GiB   0.74%     3.59MB / 3.73MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.02%    81.92MiB / 4.804GiB   1.67%     1.02MB / 920kB    0B / 295kB    3
+b3c608088ecd   flask_api      11.44%    81.95MiB / 4.804GiB   1.67%     1.02MB / 926kB    0B / 295kB    3
+a70686aea380   laravel_api2   97.12%    60.3MiB / 4.804GiB    1.23%     2.14MB / 2.11MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    95.79%    59.78MiB / 4.804GiB   1.22%     2.15MB / 2.11MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.44%    34.45MiB / 4.804GiB   0.70%     3.89MB / 4.03MB   0B / 53MB     12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.02%    81.92MiB / 4.804GiB   1.67%     1.02MB / 920kB    0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.44%    81.95MiB / 4.804GiB   1.67%     1.02MB / 926kB    0B / 295kB    3 [K
+a70686aea380   laravel_api2   97.12%    60.3MiB / 4.804GiB    1.23%     2.14MB / 2.11MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    95.79%    59.78MiB / 4.804GiB   1.22%     2.15MB / 2.11MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.44%    34.45MiB / 4.804GiB   0.70%     3.89MB / 4.03MB   0B / 53MB     12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.02%    81.92MiB / 4.804GiB   1.67%     1.02MB / 920kB    0B / 295kB    3
+b3c608088ecd   flask_api      11.44%    81.95MiB / 4.804GiB   1.67%     1.02MB / 926kB    0B / 295kB    3
+a70686aea380   laravel_api2   97.12%    60.3MiB / 4.804GiB    1.23%     2.14MB / 2.11MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    95.79%    59.78MiB / 4.804GiB   1.22%     2.15MB / 2.11MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.44%    34.45MiB / 4.804GiB   0.70%     3.89MB / 4.03MB   0B / 53MB     12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.02%    81.92MiB / 4.804GiB   1.67%     1.02MB / 920kB    0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.44%    81.95MiB / 4.804GiB   1.67%     1.02MB / 926kB    0B / 295kB    3 [K
+a70686aea380   laravel_api2   97.12%    60.3MiB / 4.804GiB    1.23%     2.14MB / 2.11MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    95.79%    59.78MiB / 4.804GiB   1.22%     2.15MB / 2.11MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.44%    34.45MiB / 4.804GiB   0.70%     3.89MB / 4.03MB   0B / 53MB     12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.17%    81.97MiB / 4.804GiB   1.67%     1.09MB / 987kB    0B / 295kB    3
+b3c608088ecd   flask_api      12.08%    81.97MiB / 4.804GiB   1.67%     1.1MB / 994kB     0B / 295kB    3
+a70686aea380   laravel_api2   86.45%    60.33MiB / 4.804GiB   1.23%     2.3MB / 2.27MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    108.41%   59.8MiB / 4.804GiB    1.22%     2.31MB / 2.27MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.27%    34.29MiB / 4.804GiB   0.70%     4.18MB / 4.33MB   0B / 53MB     12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.17%    81.97MiB / 4.804GiB   1.67%     1.09MB / 987kB    0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.08%    81.97MiB / 4.804GiB   1.67%     1.1MB / 994kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   86.45%    60.33MiB / 4.804GiB   1.23%     2.3MB / 2.27MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    108.41%   59.8MiB / 4.804GiB    1.22%     2.31MB / 2.27MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.27%    34.29MiB / 4.804GiB   0.70%     4.18MB / 4.33MB   0B / 53MB     12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.17%    81.97MiB / 4.804GiB   1.67%     1.09MB / 987kB    0B / 295kB    3
+b3c608088ecd   flask_api      12.08%    81.97MiB / 4.804GiB   1.67%     1.1MB / 994kB     0B / 295kB    3
+a70686aea380   laravel_api2   86.45%    60.33MiB / 4.804GiB   1.23%     2.3MB / 2.27MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    108.41%   59.8MiB / 4.804GiB    1.22%     2.31MB / 2.27MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.27%    34.29MiB / 4.804GiB   0.70%     4.18MB / 4.33MB   0B / 53MB     12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.17%    81.97MiB / 4.804GiB   1.67%     1.09MB / 987kB    0B / 295kB    3 [K
+b3c608088ecd   flask_api      12.08%    81.97MiB / 4.804GiB   1.67%     1.1MB / 994kB     0B / 295kB    3 [K
+a70686aea380   laravel_api2   86.45%    60.33MiB / 4.804GiB   1.23%     2.3MB / 2.27MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    108.41%   59.8MiB / 4.804GiB    1.22%     2.31MB / 2.27MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.27%    34.29MiB / 4.804GiB   0.70%     4.18MB / 4.33MB   0B / 53MB     12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.78%    82MiB / 4.804GiB      1.67%     1.17MB / 1.06MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.11%    82.02MiB / 4.804GiB   1.67%     1.17MB / 1.06MB   0B / 295kB    3
+a70686aea380   laravel_api2   113.89%   60.55MiB / 4.804GiB   1.23%     2.47MB / 2.43MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    88.74%    59.61MiB / 4.804GiB   1.21%     2.48MB / 2.44MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.21%    35.58MiB / 4.804GiB   0.72%     4.48MB / 4.64MB   0B / 53MB     13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.78%    82MiB / 4.804GiB      1.67%     1.17MB / 1.06MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.11%    82.02MiB / 4.804GiB   1.67%     1.17MB / 1.06MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   113.89%   60.55MiB / 4.804GiB   1.23%     2.47MB / 2.43MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    88.74%    59.61MiB / 4.804GiB   1.21%     2.48MB / 2.44MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.21%    35.58MiB / 4.804GiB   0.72%     4.48MB / 4.64MB   0B / 53MB     13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.78%    82MiB / 4.804GiB      1.67%     1.17MB / 1.06MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.11%    82.02MiB / 4.804GiB   1.67%     1.17MB / 1.06MB   0B / 295kB    3
+a70686aea380   laravel_api2   113.89%   60.55MiB / 4.804GiB   1.23%     2.47MB / 2.43MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    88.74%    59.61MiB / 4.804GiB   1.21%     2.48MB / 2.44MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.21%    35.58MiB / 4.804GiB   0.72%     4.48MB / 4.64MB   0B / 53MB     13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.78%    82MiB / 4.804GiB      1.67%     1.17MB / 1.06MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.11%    82.02MiB / 4.804GiB   1.67%     1.17MB / 1.06MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   113.89%   60.55MiB / 4.804GiB   1.23%     2.47MB / 2.43MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    88.74%    59.61MiB / 4.804GiB   1.21%     2.48MB / 2.44MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.21%    35.58MiB / 4.804GiB   0.72%     4.48MB / 4.64MB   0B / 53MB     13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.37%    82MiB / 4.804GiB      1.67%     1.25MB / 1.13MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.46%    82.01MiB / 4.804GiB   1.67%     1.25MB / 1.13MB   0B / 295kB    3
+a70686aea380   laravel_api2   94.64%    60.57MiB / 4.804GiB   1.23%     2.64MB / 2.6MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    94.04%    60.11MiB / 4.804GiB   1.22%     2.64MB / 2.6MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.34%    34.33MiB / 4.804GiB   0.70%     4.78MB / 4.95MB   0B / 53MB     13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.37%    82MiB / 4.804GiB      1.67%     1.25MB / 1.13MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.46%    82.01MiB / 4.804GiB   1.67%     1.25MB / 1.13MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   94.64%    60.57MiB / 4.804GiB   1.23%     2.64MB / 2.6MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    94.04%    60.11MiB / 4.804GiB   1.22%     2.64MB / 2.6MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.34%    34.33MiB / 4.804GiB   0.70%     4.78MB / 4.95MB   0B / 53MB     13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     11.37%    82MiB / 4.804GiB      1.67%     1.25MB / 1.13MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.46%    82.01MiB / 4.804GiB   1.67%     1.25MB / 1.13MB   0B / 295kB    3
+a70686aea380   laravel_api2   94.64%    60.57MiB / 4.804GiB   1.23%     2.64MB / 2.6MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    94.04%    60.11MiB / 4.804GiB   1.22%     2.64MB / 2.6MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.34%    34.33MiB / 4.804GiB   0.70%     4.78MB / 4.95MB   0B / 53MB     13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     11.37%    82MiB / 4.804GiB      1.67%     1.25MB / 1.13MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.46%    82.01MiB / 4.804GiB   1.67%     1.25MB / 1.13MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   94.64%    60.57MiB / 4.804GiB   1.23%     2.64MB / 2.6MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    94.04%    60.11MiB / 4.804GiB   1.22%     2.64MB / 2.6MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.34%    34.33MiB / 4.804GiB   0.70%     4.78MB / 4.95MB   0B / 53MB     13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.84%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3
+b3c608088ecd   flask_api      11.09%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3
+a70686aea380   laravel_api2   91.45%    61.11MiB / 4.804GiB   1.24%     2.81MB / 2.77MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    111.03%   59.75MiB / 4.804GiB   1.21%     2.81MB / 2.76MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.58%    36.26MiB / 4.804GiB   0.74%     5.08MB / 5.26MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.84%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.09%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3 [K
+a70686aea380   laravel_api2   91.45%    61.11MiB / 4.804GiB   1.24%     2.81MB / 2.77MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    111.03%   59.75MiB / 4.804GiB   1.21%     2.81MB / 2.76MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.58%    36.26MiB / 4.804GiB   0.74%     5.08MB / 5.26MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.84%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3
+b3c608088ecd   flask_api      11.09%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3
+a70686aea380   laravel_api2   91.45%    61.11MiB / 4.804GiB   1.24%     2.81MB / 2.77MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    111.03%   59.75MiB / 4.804GiB   1.21%     2.81MB / 2.76MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.58%    36.26MiB / 4.804GiB   0.74%     5.08MB / 5.26MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.84%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.09%    82.04MiB / 4.804GiB   1.67%     1.32MB / 1.2MB    0B / 295kB    3 [K
+a70686aea380   laravel_api2   91.45%    61.11MiB / 4.804GiB   1.24%     2.81MB / 2.77MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    111.03%   59.75MiB / 4.804GiB   1.21%     2.81MB / 2.76MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.58%    36.26MiB / 4.804GiB   0.74%     5.08MB / 5.26MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.87%    82.02MiB / 4.804GiB   1.67%     1.39MB / 1.26MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.23%    81.99MiB / 4.804GiB   1.67%     1.39MB / 1.27MB   0B / 295kB    3
+a70686aea380   laravel_api2   113.11%   60.63MiB / 4.804GiB   1.23%     2.96MB / 2.92MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    87.64%    59.76MiB / 4.804GiB   1.21%     2.96MB / 2.91MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.93%    35.53MiB / 4.804GiB   0.72%     5.37MB / 5.54MB   0B / 53MB     13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.87%    82.02MiB / 4.804GiB   1.67%     1.39MB / 1.26MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.23%    81.99MiB / 4.804GiB   1.67%     1.39MB / 1.27MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   113.11%   60.63MiB / 4.804GiB   1.23%     2.96MB / 2.92MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    87.64%    59.76MiB / 4.804GiB   1.21%     2.96MB / 2.91MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.93%    35.53MiB / 4.804GiB   0.72%     5.37MB / 5.54MB   0B / 53MB     13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.87%    82.02MiB / 4.804GiB   1.67%     1.39MB / 1.26MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.23%    81.99MiB / 4.804GiB   1.67%     1.39MB / 1.27MB   0B / 295kB    3
+a70686aea380   laravel_api2   113.11%   60.63MiB / 4.804GiB   1.23%     2.96MB / 2.92MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    87.64%    59.76MiB / 4.804GiB   1.21%     2.96MB / 2.91MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.93%    35.53MiB / 4.804GiB   0.72%     5.37MB / 5.54MB   0B / 53MB     13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.87%    82.02MiB / 4.804GiB   1.67%     1.39MB / 1.26MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.23%    81.99MiB / 4.804GiB   1.67%     1.39MB / 1.27MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   113.11%   60.63MiB / 4.804GiB   1.23%     2.96MB / 2.92MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    87.64%    59.76MiB / 4.804GiB   1.21%     2.96MB / 2.91MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.93%    35.53MiB / 4.804GiB   0.72%     5.37MB / 5.54MB   0B / 53MB     13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.44%    82.31MiB / 4.804GiB   1.67%     1.46MB / 1.33MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.18%    82.02MiB / 4.804GiB   1.67%     1.46MB / 1.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   95.48%    60.68MiB / 4.804GiB   1.23%     3.13MB / 3.08MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    89.13%    59.79MiB / 4.804GiB   1.22%     3.12MB / 3.08MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.10%    37.45MiB / 4.804GiB   0.76%     5.67MB / 5.85MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.44%    82.31MiB / 4.804GiB   1.67%     1.46MB / 1.33MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.18%    82.02MiB / 4.804GiB   1.67%     1.46MB / 1.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   95.48%    60.68MiB / 4.804GiB   1.23%     3.13MB / 3.08MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    89.13%    59.79MiB / 4.804GiB   1.22%     3.12MB / 3.08MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.10%    37.45MiB / 4.804GiB   0.76%     5.67MB / 5.85MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.44%    82.31MiB / 4.804GiB   1.67%     1.46MB / 1.33MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.18%    82.02MiB / 4.804GiB   1.67%     1.46MB / 1.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   95.48%    60.68MiB / 4.804GiB   1.23%     3.13MB / 3.08MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    89.13%    59.79MiB / 4.804GiB   1.22%     3.12MB / 3.08MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.10%    37.45MiB / 4.804GiB   0.76%     5.67MB / 5.85MB   0B / 53MB     14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.44%    82.31MiB / 4.804GiB   1.67%     1.46MB / 1.33MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.18%    82.02MiB / 4.804GiB   1.67%     1.46MB / 1.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   95.48%    60.68MiB / 4.804GiB   1.23%     3.13MB / 3.08MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    89.13%    59.79MiB / 4.804GiB   1.22%     3.12MB / 3.08MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.10%    37.45MiB / 4.804GiB   0.76%     5.67MB / 5.85MB   0B / 53MB     14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.40%    82.09MiB / 4.804GiB   1.67%     1.54MB / 1.4MB    0B / 295kB    4
+b3c608088ecd   flask_api      11.23%    82.03MiB / 4.804GiB   1.67%     1.54MB / 1.41MB   0B / 295kB    3
+a70686aea380   laravel_api2   89.01%    60.69MiB / 4.804GiB   1.23%     3.29MB / 3.24MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    110.36%   59.97MiB / 4.804GiB   1.22%     3.28MB / 3.24MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.07%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    53.19%    35.82MiB / 4.804GiB   0.73%     5.96MB / 6.14MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.40%    82.09MiB / 4.804GiB   1.67%     1.54MB / 1.4MB    0B / 295kB    4 [K
+b3c608088ecd   flask_api      11.23%    82.03MiB / 4.804GiB   1.67%     1.54MB / 1.41MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   89.01%    60.69MiB / 4.804GiB   1.23%     3.29MB / 3.24MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    110.36%   59.97MiB / 4.804GiB   1.22%     3.28MB / 3.24MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.07%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    53.19%    35.82MiB / 4.804GiB   0.73%     5.96MB / 6.14MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.40%    82.09MiB / 4.804GiB   1.67%     1.54MB / 1.4MB    0B / 295kB    4
+b3c608088ecd   flask_api      11.23%    82.03MiB / 4.804GiB   1.67%     1.54MB / 1.41MB   0B / 295kB    3
+a70686aea380   laravel_api2   89.01%    60.69MiB / 4.804GiB   1.23%     3.29MB / 3.24MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    110.36%   59.97MiB / 4.804GiB   1.22%     3.28MB / 3.24MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.07%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    53.19%    35.82MiB / 4.804GiB   0.73%     5.96MB / 6.14MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.40%    82.09MiB / 4.804GiB   1.67%     1.54MB / 1.4MB    0B / 295kB    4 [K
+b3c608088ecd   flask_api      11.23%    82.03MiB / 4.804GiB   1.67%     1.54MB / 1.41MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   89.01%    60.69MiB / 4.804GiB   1.23%     3.29MB / 3.24MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    110.36%   59.97MiB / 4.804GiB   1.22%     3.28MB / 3.24MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.07%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    53.19%    35.82MiB / 4.804GiB   0.73%     5.96MB / 6.14MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.71%    82.07MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.92%    82.05MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    4
+a70686aea380   laravel_api2   114.23%   60.97MiB / 4.804GiB   1.24%     3.45MB / 3.41MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    88.68%    60MiB / 4.804GiB      1.22%     3.45MB / 3.4MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.02%    34.22MiB / 4.804GiB   0.70%     6.26MB / 6.45MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.71%    82.07MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.92%    82.05MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    4 [K
+a70686aea380   laravel_api2   114.23%   60.97MiB / 4.804GiB   1.24%     3.45MB / 3.41MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    88.68%    60MiB / 4.804GiB      1.22%     3.45MB / 3.4MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.02%    34.22MiB / 4.804GiB   0.70%     6.26MB / 6.45MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.71%    82.07MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.92%    82.05MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    4
+a70686aea380   laravel_api2   114.23%   60.97MiB / 4.804GiB   1.24%     3.45MB / 3.41MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    88.68%    60MiB / 4.804GiB      1.22%     3.45MB / 3.4MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.02%    34.22MiB / 4.804GiB   0.70%     6.26MB / 6.45MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.71%    82.07MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.92%    82.05MiB / 4.804GiB   1.67%     1.61MB / 1.47MB   0B / 295kB    4 [K
+a70686aea380   laravel_api2   114.23%   60.97MiB / 4.804GiB   1.24%     3.45MB / 3.41MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    88.68%    60MiB / 4.804GiB      1.22%     3.45MB / 3.4MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.04%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.02%    34.22MiB / 4.804GiB   0.70%     6.26MB / 6.45MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.38%    82.08MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.16%    82.05MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3
+a70686aea380   laravel_api2   93.00%    61.01MiB / 4.804GiB   1.24%     3.63MB / 3.58MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    91.23%    60.28MiB / 4.804GiB   1.23%     3.62MB / 3.57MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.36%    34.45MiB / 4.804GiB   0.70%     6.57MB / 6.77MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.38%    82.08MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.16%    82.05MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   93.00%    61.01MiB / 4.804GiB   1.24%     3.63MB / 3.58MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    91.23%    60.28MiB / 4.804GiB   1.23%     3.62MB / 3.57MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.36%    34.45MiB / 4.804GiB   0.70%     6.57MB / 6.77MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.38%    82.08MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.16%    82.05MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3
+a70686aea380   laravel_api2   93.00%    61.01MiB / 4.804GiB   1.24%     3.63MB / 3.58MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    91.23%    60.28MiB / 4.804GiB   1.23%     3.62MB / 3.57MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.36%    34.45MiB / 4.804GiB   0.70%     6.57MB / 6.77MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.38%    82.08MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.16%    82.05MiB / 4.804GiB   1.67%     1.69MB / 1.54MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   93.00%    61.01MiB / 4.804GiB   1.24%     3.63MB / 3.58MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    91.23%    60.28MiB / 4.804GiB   1.23%     3.62MB / 3.57MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.36%    34.45MiB / 4.804GiB   0.70%     6.57MB / 6.77MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.66%    82.09MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.51%    82.28MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3
+a70686aea380   laravel_api2   90.70%    60.79MiB / 4.804GiB   1.24%     3.79MB / 3.74MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    112.58%   60.05MiB / 4.804GiB   1.22%     3.78MB / 3.73MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.72%    34.52MiB / 4.804GiB   0.70%     6.86MB / 7.07MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.66%    82.09MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.51%    82.28MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   90.70%    60.79MiB / 4.804GiB   1.24%     3.79MB / 3.74MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    112.58%   60.05MiB / 4.804GiB   1.22%     3.78MB / 3.73MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.72%    34.52MiB / 4.804GiB   0.70%     6.86MB / 7.07MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.66%    82.09MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.51%    82.28MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3
+a70686aea380   laravel_api2   90.70%    60.79MiB / 4.804GiB   1.24%     3.79MB / 3.74MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    112.58%   60.05MiB / 4.804GiB   1.22%     3.78MB / 3.73MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.72%    34.52MiB / 4.804GiB   0.70%     6.86MB / 7.07MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.66%    82.09MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.51%    82.28MiB / 4.804GiB   1.67%     1.76MB / 1.61MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   90.70%    60.79MiB / 4.804GiB   1.24%     3.79MB / 3.74MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    112.58%   60.05MiB / 4.804GiB   1.22%     3.78MB / 3.73MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.72%    34.52MiB / 4.804GiB   0.70%     6.86MB / 7.07MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.74%    82.11MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.80%    82.05MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3
+a70686aea380   laravel_api2   112.67%   60.82MiB / 4.804GiB   1.24%     3.96MB / 3.91MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    95.95%    60.34MiB / 4.804GiB   1.23%     3.95MB / 3.9MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.55%    36.04MiB / 4.804GiB   0.73%     7.17MB / 7.39MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.74%    82.11MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.80%    82.05MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   112.67%   60.82MiB / 4.804GiB   1.24%     3.96MB / 3.91MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    95.95%    60.34MiB / 4.804GiB   1.23%     3.95MB / 3.9MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.55%    36.04MiB / 4.804GiB   0.73%     7.17MB / 7.39MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.74%    82.11MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.80%    82.05MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3
+a70686aea380   laravel_api2   112.67%   60.82MiB / 4.804GiB   1.24%     3.96MB / 3.91MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    95.95%    60.34MiB / 4.804GiB   1.23%     3.95MB / 3.9MB    0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.55%    36.04MiB / 4.804GiB   0.73%     7.17MB / 7.39MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.74%    82.11MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.80%    82.05MiB / 4.804GiB   1.67%     1.84MB / 1.68MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   112.67%   60.82MiB / 4.804GiB   1.24%     3.96MB / 3.91MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    95.95%    60.34MiB / 4.804GiB   1.23%     3.95MB / 3.9MB    0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.55%    36.04MiB / 4.804GiB   0.73%     7.17MB / 7.39MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.75%    82.12MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.30%    82.06MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3
+a70686aea380   laravel_api2   98.59%    60.84MiB / 4.804GiB   1.24%     4.13MB / 4.07MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    89.55%    60.37MiB / 4.804GiB   1.23%     4.12MB / 4.06MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.46%    37.49MiB / 4.804GiB   0.76%     7.47MB / 7.7MB    0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.75%    82.12MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.30%    82.06MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   98.59%    60.84MiB / 4.804GiB   1.24%     4.13MB / 4.07MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    89.55%    60.37MiB / 4.804GiB   1.23%     4.12MB / 4.06MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.46%    37.49MiB / 4.804GiB   0.76%     7.47MB / 7.7MB    0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.75%    82.12MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.30%    82.06MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3
+a70686aea380   laravel_api2   98.59%    60.84MiB / 4.804GiB   1.24%     4.13MB / 4.07MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    89.55%    60.37MiB / 4.804GiB   1.23%     4.12MB / 4.06MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.46%    37.49MiB / 4.804GiB   0.76%     7.47MB / 7.7MB    0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.75%    82.12MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.30%    82.06MiB / 4.804GiB   1.67%     1.91MB / 1.75MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   98.59%    60.84MiB / 4.804GiB   1.24%     4.13MB / 4.07MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    89.55%    60.37MiB / 4.804GiB   1.23%     4.12MB / 4.06MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.46%    37.49MiB / 4.804GiB   0.76%     7.47MB / 7.7MB    0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.88%    82.39MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    4
+b3c608088ecd   flask_api      11.36%    82.06MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    3
+a70686aea380   laravel_api2   93.34%    60.87MiB / 4.804GiB   1.24%     4.3MB / 4.24MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    106.50%   60.41MiB / 4.804GiB   1.23%     4.28MB / 4.23MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.41%    34.36MiB / 4.804GiB   0.70%     7.78MB / 8.01MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.88%    82.39MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    4 [K
+b3c608088ecd   flask_api      11.36%    82.06MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   93.34%    60.87MiB / 4.804GiB   1.24%     4.3MB / 4.24MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    106.50%   60.41MiB / 4.804GiB   1.23%     4.28MB / 4.23MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.41%    34.36MiB / 4.804GiB   0.70%     7.78MB / 8.01MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.88%    82.39MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    4
+b3c608088ecd   flask_api      11.36%    82.06MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    3
+a70686aea380   laravel_api2   93.34%    60.87MiB / 4.804GiB   1.24%     4.3MB / 4.24MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    106.50%   60.41MiB / 4.804GiB   1.23%     4.28MB / 4.23MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.41%    34.36MiB / 4.804GiB   0.70%     7.78MB / 8.01MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.88%    82.39MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    4 [K
+b3c608088ecd   flask_api      11.36%    82.06MiB / 4.804GiB   1.67%     1.99MB / 1.82MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   93.34%    60.87MiB / 4.804GiB   1.24%     4.3MB / 4.24MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    106.50%   60.41MiB / 4.804GiB   1.23%     4.28MB / 4.23MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.41%    34.36MiB / 4.804GiB   0.70%     7.78MB / 8.01MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.63%    82.12MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.11%    82.06MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3
+a70686aea380   laravel_api2   106.74%   60.91MiB / 4.804GiB   1.24%     4.47MB / 4.4MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    97.33%    60.18MiB / 4.804GiB   1.22%     4.45MB / 4.39MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.50%    34.25MiB / 4.804GiB   0.70%     8.08MB / 8.32MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.63%    82.12MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.11%    82.06MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   106.74%   60.91MiB / 4.804GiB   1.24%     4.47MB / 4.4MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    97.33%    60.18MiB / 4.804GiB   1.22%     4.45MB / 4.39MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.50%    34.25MiB / 4.804GiB   0.70%     8.08MB / 8.32MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.63%    82.12MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.11%    82.06MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3
+a70686aea380   laravel_api2   106.74%   60.91MiB / 4.804GiB   1.24%     4.47MB / 4.4MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    97.33%    60.18MiB / 4.804GiB   1.22%     4.45MB / 4.39MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.50%    34.25MiB / 4.804GiB   0.70%     8.08MB / 8.32MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.63%    82.12MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.11%    82.06MiB / 4.804GiB   1.67%     2.06MB / 1.89MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   106.74%   60.91MiB / 4.804GiB   1.24%     4.47MB / 4.4MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    97.33%    60.18MiB / 4.804GiB   1.22%     4.45MB / 4.39MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.50%    34.25MiB / 4.804GiB   0.70%     8.08MB / 8.32MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.86%    82.41MiB / 4.804GiB   1.68%     2.13MB / 1.95MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.40%    82.07MiB / 4.804GiB   1.67%     2.13MB / 1.96MB   0B / 295kB    3
+a70686aea380   laravel_api2   107.27%   61.2MiB / 4.804GiB    1.24%     4.63MB / 4.57MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    89.00%    60.21MiB / 4.804GiB   1.22%     4.61MB / 4.55MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.71%    34.62MiB / 4.804GiB   0.70%     8.38MB / 8.63MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.86%    82.41MiB / 4.804GiB   1.68%     2.13MB / 1.95MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.40%    82.07MiB / 4.804GiB   1.67%     2.13MB / 1.96MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   107.27%   61.2MiB / 4.804GiB    1.24%     4.63MB / 4.57MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    89.00%    60.21MiB / 4.804GiB   1.22%     4.61MB / 4.55MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.71%    34.62MiB / 4.804GiB   0.70%     8.38MB / 8.63MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.86%    82.41MiB / 4.804GiB   1.68%     2.13MB / 1.95MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.40%    82.07MiB / 4.804GiB   1.67%     2.13MB / 1.96MB   0B / 295kB    3
+a70686aea380   laravel_api2   107.27%   61.2MiB / 4.804GiB    1.24%     4.63MB / 4.57MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    89.00%    60.21MiB / 4.804GiB   1.22%     4.61MB / 4.55MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    50.71%    34.62MiB / 4.804GiB   0.70%     8.38MB / 8.63MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.86%    82.41MiB / 4.804GiB   1.68%     2.13MB / 1.95MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.40%    82.07MiB / 4.804GiB   1.67%     2.13MB / 1.96MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   107.27%   61.2MiB / 4.804GiB    1.24%     4.63MB / 4.57MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    89.00%    60.21MiB / 4.804GiB   1.22%     4.61MB / 4.55MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    50.71%    34.62MiB / 4.804GiB   0.70%     8.38MB / 8.63MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.63%    82.14MiB / 4.804GiB   1.67%     2.21MB / 2.02MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.09%    82.08MiB / 4.804GiB   1.67%     2.21MB / 2.03MB   0B / 295kB    3
+a70686aea380   laravel_api2   95.02%    60.99MiB / 4.804GiB   1.24%     4.8MB / 4.74MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    103.44%   60.49MiB / 4.804GiB   1.23%     4.78MB / 4.72MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.49%    35.26MiB / 4.804GiB   0.72%     8.68MB / 8.94MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.63%    82.14MiB / 4.804GiB   1.67%     2.21MB / 2.02MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.09%    82.08MiB / 4.804GiB   1.67%     2.21MB / 2.03MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   95.02%    60.99MiB / 4.804GiB   1.24%     4.8MB / 4.74MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    103.44%   60.49MiB / 4.804GiB   1.23%     4.78MB / 4.72MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.49%    35.26MiB / 4.804GiB   0.72%     8.68MB / 8.94MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.63%    82.14MiB / 4.804GiB   1.67%     2.21MB / 2.02MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.09%    82.08MiB / 4.804GiB   1.67%     2.21MB / 2.03MB   0B / 295kB    3
+a70686aea380   laravel_api2   95.02%    60.99MiB / 4.804GiB   1.24%     4.8MB / 4.74MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    103.44%   60.49MiB / 4.804GiB   1.23%     4.78MB / 4.72MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.49%    35.26MiB / 4.804GiB   0.72%     8.68MB / 8.94MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.63%    82.14MiB / 4.804GiB   1.67%     2.21MB / 2.02MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.09%    82.08MiB / 4.804GiB   1.67%     2.21MB / 2.03MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   95.02%    60.99MiB / 4.804GiB   1.24%     4.8MB / 4.74MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    103.44%   60.49MiB / 4.804GiB   1.23%     4.78MB / 4.72MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.49%    35.26MiB / 4.804GiB   0.72%     8.68MB / 8.94MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.68%    82.17MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.56%    82.07MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3
+a70686aea380   laravel_api2   97.63%    61.02MiB / 4.804GiB   1.24%     4.97MB / 4.9MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    96.15%    60.28MiB / 4.804GiB   1.23%     4.94MB / 4.88MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.35%    35.57MiB / 4.804GiB   0.72%     8.98MB / 9.24MB   0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.68%    82.17MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.56%    82.07MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   97.63%    61.02MiB / 4.804GiB   1.24%     4.97MB / 4.9MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    96.15%    60.28MiB / 4.804GiB   1.23%     4.94MB / 4.88MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.35%    35.57MiB / 4.804GiB   0.72%     8.98MB / 9.24MB   0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.68%    82.17MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.56%    82.07MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3
+a70686aea380   laravel_api2   97.63%    61.02MiB / 4.804GiB   1.24%     4.97MB / 4.9MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    96.15%    60.28MiB / 4.804GiB   1.23%     4.94MB / 4.88MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.35%    35.57MiB / 4.804GiB   0.72%     8.98MB / 9.24MB   0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.68%    82.17MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.56%    82.07MiB / 4.804GiB   1.67%     2.28MB / 2.09MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   97.63%    61.02MiB / 4.804GiB   1.24%     4.97MB / 4.9MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    96.15%    60.28MiB / 4.804GiB   1.23%     4.94MB / 4.88MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.35%    35.57MiB / 4.804GiB   0.72%     8.98MB / 9.24MB   0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.33%    82.15MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.18%    82.13MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    4
+a70686aea380   laravel_api2   115.06%   61.29MiB / 4.804GiB   1.25%     5.14MB / 5.07MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    88.32%    60.7MiB / 4.804GiB    1.23%     5.11MB / 5.04MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.10%    36.32MiB / 4.804GiB   0.74%     9.28MB / 9.55MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.33%    82.15MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.18%    82.13MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    4 [K
+a70686aea380   laravel_api2   115.06%   61.29MiB / 4.804GiB   1.25%     5.14MB / 5.07MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    88.32%    60.7MiB / 4.804GiB    1.23%     5.11MB / 5.04MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.10%    36.32MiB / 4.804GiB   0.74%     9.28MB / 9.55MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.33%    82.15MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    3
+b3c608088ecd   flask_api      11.18%    82.13MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    4
+a70686aea380   laravel_api2   115.06%   61.29MiB / 4.804GiB   1.25%     5.14MB / 5.07MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    88.32%    60.7MiB / 4.804GiB    1.23%     5.11MB / 5.04MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    52.10%    36.32MiB / 4.804GiB   0.74%     9.28MB / 9.55MB   0B / 53.1MB   13
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.33%    82.15MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      11.18%    82.13MiB / 4.804GiB   1.67%     2.35MB / 2.16MB   0B / 295kB    4 [K
+a70686aea380   laravel_api2   115.06%   61.29MiB / 4.804GiB   1.25%     5.14MB / 5.07MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    88.32%    60.7MiB / 4.804GiB    1.23%     5.11MB / 5.04MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    52.10%    36.32MiB / 4.804GiB   0.74%     9.28MB / 9.55MB   0B / 53.1MB   13 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.50%    82.14MiB / 4.804GiB   1.67%     2.42MB / 2.23MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.94%    82.57MiB / 4.804GiB   1.68%     2.42MB / 2.23MB   0B / 295kB    3
+a70686aea380   laravel_api2   92.25%    61.07MiB / 4.804GiB   1.24%     5.3MB / 5.23MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    104.00%   60.75MiB / 4.804GiB   1.24%     5.27MB / 5.21MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.88%    36.34MiB / 4.804GiB   0.74%     9.58MB / 9.85MB   0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.50%    82.14MiB / 4.804GiB   1.67%     2.42MB / 2.23MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.94%    82.57MiB / 4.804GiB   1.68%     2.42MB / 2.23MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   92.25%    61.07MiB / 4.804GiB   1.24%     5.3MB / 5.23MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    104.00%   60.75MiB / 4.804GiB   1.24%     5.27MB / 5.21MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.88%    36.34MiB / 4.804GiB   0.74%     9.58MB / 9.85MB   0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     10.50%    82.14MiB / 4.804GiB   1.67%     2.42MB / 2.23MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.94%    82.57MiB / 4.804GiB   1.68%     2.42MB / 2.23MB   0B / 295kB    3
+a70686aea380   laravel_api2   92.25%    61.07MiB / 4.804GiB   1.24%     5.3MB / 5.23MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    104.00%   60.75MiB / 4.804GiB   1.24%     5.27MB / 5.21MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.88%    36.34MiB / 4.804GiB   0.74%     9.58MB / 9.85MB   0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     10.50%    82.14MiB / 4.804GiB   1.67%     2.42MB / 2.23MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.94%    82.57MiB / 4.804GiB   1.68%     2.42MB / 2.23MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   92.25%    61.07MiB / 4.804GiB   1.24%     5.3MB / 5.23MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    104.00%   60.75MiB / 4.804GiB   1.24%     5.27MB / 5.21MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.02%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.88%    36.34MiB / 4.804GiB   0.74%     9.58MB / 9.85MB   0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     9.79%     82.13MiB / 4.804GiB   1.67%     2.49MB / 2.29MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.43%    82.35MiB / 4.804GiB   1.67%     2.49MB / 2.3MB    0B / 295kB    3
+a70686aea380   laravel_api2   93.11%    61.34MiB / 4.804GiB   1.25%     5.47MB / 5.4MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    98.75%    60.54MiB / 4.804GiB   1.23%     5.44MB / 5.37MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.43%    37.41MiB / 4.804GiB   0.76%     9.88MB / 10.2MB   0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     9.79%     82.13MiB / 4.804GiB   1.67%     2.49MB / 2.29MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.43%    82.35MiB / 4.804GiB   1.67%     2.49MB / 2.3MB    0B / 295kB    3 [K
+a70686aea380   laravel_api2   93.11%    61.34MiB / 4.804GiB   1.25%     5.47MB / 5.4MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    98.75%    60.54MiB / 4.804GiB   1.23%     5.44MB / 5.37MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.43%    37.41MiB / 4.804GiB   0.76%     9.88MB / 10.2MB   0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     9.79%     82.13MiB / 4.804GiB   1.67%     2.49MB / 2.29MB   0B / 295kB    3
+b3c608088ecd   flask_api      10.43%    82.35MiB / 4.804GiB   1.67%     2.49MB / 2.3MB    0B / 295kB    3
+a70686aea380   laravel_api2   93.11%    61.34MiB / 4.804GiB   1.25%     5.47MB / 5.4MB    0B / 8.19kB   2
+dda86cce8502   laravel_api    98.75%    60.54MiB / 4.804GiB   1.23%     5.44MB / 5.37MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    51.43%    37.41MiB / 4.804GiB   0.76%     9.88MB / 10.2MB   0B / 53.1MB   14
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     9.79%     82.13MiB / 4.804GiB   1.67%     2.49MB / 2.29MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      10.43%    82.35MiB / 4.804GiB   1.67%     2.49MB / 2.3MB    0B / 295kB    3 [K
+a70686aea380   laravel_api2   93.11%    61.34MiB / 4.804GiB   1.25%     5.47MB / 5.4MB    0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    98.75%    60.54MiB / 4.804GiB   1.23%     5.44MB / 5.37MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.03%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    51.43%    37.41MiB / 4.804GiB   0.76%     9.88MB / 10.2MB   0B / 53.1MB   14 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     6.62%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      6.79%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   101.38%   61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    70.70%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.47%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    39.19%    34.03MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     6.62%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      6.79%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   101.38%   61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    70.70%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.47%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    39.19%    34.03MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     6.62%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      6.79%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   101.38%   61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    70.70%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.47%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    39.19%    34.03MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     6.62%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      6.79%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   101.38%   61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    70.70%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.47%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    39.19%    34.03MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.63%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.53%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   2.48%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    13.52%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.17%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.05%     33.98MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.63%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.53%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   2.48%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    13.52%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.17%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.05%     33.98MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.63%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.53%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   2.48%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    13.52%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.17%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.05%     33.98MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.63%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.53%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   2.48%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    13.52%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.17%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.05%     33.98MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.63%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.53%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   2.48%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    13.52%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.17%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.05%     33.98MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.63%     82.13MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.53%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   2.48%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    13.52%    60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.17%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.05%     33.98MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.45%     82.38MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.39%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.12%     33.97MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.45%     82.38MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.39%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.12%     33.97MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.45%     82.38MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.39%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.12%     33.97MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.45%     82.38MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.39%     82.08MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.12%     33.97MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.44%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.28%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.06%     33.85MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.44%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.28%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.06%     33.85MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.44%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.28%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.06%     33.85MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.44%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.28%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.06%     33.85MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.17%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.21%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.03%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.03%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.17%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.21%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.03%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.03%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.17%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.21%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.03%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.03%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.17%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.21%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.03%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.08%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.03%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.37%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.05%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.37%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.05%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.37%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.05%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.37%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.05%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.05%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.33%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.37%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.06%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.33%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.37%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.06%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.33%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.37%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.06%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.33%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.37%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.04%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.06%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.37%     82.37MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.38%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.37%     82.37MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.38%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.37%     82.37MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.38%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.37%     82.37MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.38%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.09%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.31%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.07%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.07%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.31%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.07%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.07%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.31%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.07%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.07%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.31%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.31%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.07%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.07%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.06%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.04%     33.8MiB / 4.804GiB    0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     1.87%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      2.00%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.10%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.24%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.14%     34.3MiB / 4.804GiB    0.70%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     1.87%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      2.00%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.10%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.24%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.14%     34.3MiB / 4.804GiB    0.70%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     1.87%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      2.00%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.10%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.24%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.14%     34.3MiB / 4.804GiB    0.70%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     1.87%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      2.00%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.10%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.05%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.24%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.14%     34.3MiB / 4.804GiB    0.70%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.39%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.39%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.30%     34.05MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.39%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.39%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.30%     34.05MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2
+df08e1df9522   flask_api2     0.39%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+b3c608088ecd   flask_api      0.39%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7
+e2cec18a50eb   postgres_db    0.30%     34.05MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12
+[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS [K
+c743bc2b7e42   api_gateway    0.00%     2.543MiB / 4.804GiB   0.05%     2.11kB / 126B     0B / 12.3kB   2 [K
+df08e1df9522   flask_api2     0.39%     82.12MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+b3c608088ecd   flask_api      0.39%     82.07MiB / 4.804GiB   1.67%     2.54MB / 2.34MB   0B / 295kB    3 [K
+a70686aea380   laravel_api2   0.04%     61.1MiB / 4.804GiB    1.24%     5.61MB / 5.53MB   0B / 8.19kB   2 [K
+dda86cce8502   laravel_api    0.03%     60.54MiB / 4.804GiB   1.23%     5.55MB / 5.49MB   0B / 8.19kB   2 [K
+f34f463e61f8   pgadmin_web    0.13%     212.7MiB / 4.804GiB   4.32%     2.46kB / 126B     0B / 13.3MB   7 [K
+e2cec18a50eb   postgres_db    0.30%     34.05MiB / 4.804GiB   0.69%     10.1MB / 10.4MB   0B / 53.1MB   12 [K
+ [K
+[J
